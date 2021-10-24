@@ -1,0 +1,15 @@
+{
+  "mainnet": {
+    "apollo": {
+      "name": "Apollo DAO",
+      "description": "Apollo DAO is a yield management platform with auto-compounding vaults."
+    },
+    "terraswap": {
+      "name": "Terraswap"
+    },
+    "starterra": {
+      "name": "StarTerra",
+      "description": "A gamefied launchpad for Terra."
+    }
+  }
+}

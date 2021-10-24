@@ -1,0 +1,14 @@
+{
+  "name": "Extra Addresses",
+  "description": "",
+  "version": "0.1.0",
+  "scripts": {
+    "tokens": "ts-node script/writeJSON.ts tokens.config.json",
+    "contracts": "ts-node script/writeJSON.ts contracts.config.json"
+  },
+  "dependencies": {
+    "fast-csv": "^4.3.6",
+    "lodash": "^4.17.21",
+    "ts-node": "^10.2.1"
+  }
+}

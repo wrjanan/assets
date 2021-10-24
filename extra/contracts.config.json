@@ -1,0 +1,17 @@
+{
+  "source": "../cw20/contracts.json",
+  "additions": "./cw20/contracts.csv",
+  "output": "./json/contracts.json",
+  "add_identifiers": true,
+  "headers": [
+    "id",
+    "name",
+    "protocol",
+    "icon",
+    "tags",
+    "mainnet",
+    "testnet"
+  ],
+  "arrayFields": ["tags"],
+  "key": "name"
+}

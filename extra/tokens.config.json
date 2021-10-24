@@ -1,0 +1,17 @@
+{
+  "source": "../cw20/tokens.json",
+  "additions": "./cw20/tokens.csv",
+  "output": "./json/tokens.json",
+  "add_identifiers": false,
+  "headers": [
+    "symbol",
+    "name",
+    "protocol",
+    "icon",
+    "mainnet",
+    "testnet",
+    "decimals"
+  ],
+  "arrayFields": [],
+  "key": "symbol"
+}
