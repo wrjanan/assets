@@ -2460,6 +2460,249 @@
         "Wormhole",
         "PancakeSwap"
       ]
+    },
+    "terra1nwk2y5nfa5sxx6gtxr84lre3zpnn7cad2f266h": {
+      "id": "ANGEL_PROTOCOL_REGISTRAR",
+      "name": "Angel Protocol Registrar",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra19cevhng6nunl7gmc90sph0syuqyvtqn7mlhwz0": {
+      "id": "ANGEL_PROTOCOL_INDEX_FUND",
+      "name": "Angel Protocol Index Fund",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra172ue5d0zm7jlsj2d9af4vdff6wua7mnv6dq5vp": {
+      "id": "ANGEL_PROTOCOL_VAULT_ANCHOR",
+      "name": "Angel Protocol Vault - Anchor",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1qzdgs73h3rnh9j7f4t6tyuw9lmrp5esn6yunyl": {
+      "id": "ANGEL_PROTOCOL_TEAM_GROUP",
+      "name": "Angel Protocol Team Group",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1m6rqwmxlpztjf3zfhza906d44c9rpf2t6vn37n": {
+      "id": "ANGEL_PROTOCOL_TEAM_MULTISIG",
+      "name": "Angel Protocol Team Multisig",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1lycc2zyhd676294c604euh8hxw7h6jrjd68x83": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_OWNERS_GROUP",
+      "name": "Angel Protocol Endowment Owners Group",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1jd2n0ze7er80x9h8k3x006aypaxs7mvrggdmn9": {
+      "id": "ANGEL_PROTOCOL_GUARDIAN_ANGELS_MULTISIG",
+      "name": "Angel Protocol Guardian Angels Multisig",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1zn8aqw3ypzvs8pzuadpqw5jw5rptxp4y08z7sr": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_1",
+      "name": "Better Me",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1k6v33x6sc9chztxgyh859npz740gmn9d4rnfkz": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_2",
+      "name": "Yellow Boat of Hope Foundation",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1xmeept4tj37qqsajws8r6tl7f5hskvvfg2fmd5": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_3",
+      "name": "Technovation Rwanda",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1c5luclcnzwhlf59c5w63yn034z6k9jrefx0swx": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_4",
+      "name": "Blue Jay Animal Sancutary",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1ngnqymglanujrhs09qakyz84k4v6cw9yyjwp0t": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_5",
+      "name": "The Turing Trust",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra18y4lflmg0wnlkw4hvamp4l2hjv2cafy7dtcyn6": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_6",
+      "name": "Pro2Tect",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1xmkprc4p2wxjh9eh58rjf3ndllepnl7xezmuk4": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_7",
+      "name": "Refugee Girls Need You",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1u0dls462h33j3fgg4j98wpa5qculnq2u749qc5": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_8",
+      "name": "Teachers Like Me",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1tkadaa8phaqnne20rzluhv8p57h23ku4n337ye": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_9",
+      "name": "Animal Ethics",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1lalzy8rvkg3j2qm4a2x74lm6lxfa3llz7kdkdp": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_10",
+      "name": "Territorio de Zaguates",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1vqe93uv8lylkw4fc8m0xr89fv5xean29ftr0q2": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_11",
+      "name": "Lion's Club Manitowish Waters, WI",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra12crxq8nxml96e9h38fe67c4p76pc24l54zjzzh": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_12",
+      "name": "Global Brigades",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1gm0x3m87e7wqzkac5eeacxkesy470yavpwqgdm": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_13",
+      "name": "SEED",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1qagm9wdnp6f76xy52llcjxmr4z8j4nhd9ethw8": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_14",
+      "name": "Npili Geral",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1kdd6f099dv4kr5xqp7sxcc7epledxmvyq8xnu3": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_15",
+      "name": "DeFi Ripple Effects (DRE)",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1d5phnyr7e7l44yaathtwrh4f4mv5agajcy508f": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_16",
+      "name": "New Life Ministries",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra16qh68y6gydhz73ndxgkzwmfcfam6jt45g8jhml": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_17",
+      "name": "Warrior GMR Foundation",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra13nm3vyj6zfg2tdzsgq97ky6d6gtuty9mu025z3": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_18",
+      "name": "ROLDA",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1uwtk2hs65332emnjn8n9s8d3l692pgyqnew4dq": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_19",
+      "name": "Solar Electric Light Fund",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
+    },
+    "terra1cmp87658s0c475dkyee2p8r9zsdjd628py4zav": {
+      "id": "ANGEL_PROTOCOL_ENDOWMENT_20",
+      "name": "Boston Scores",
+      "protocol": "Angel Protocol",
+      "icon": "https://angelprotocol.io/favicon.png",
+      "tags": [
+        "Angel Protocol"
+      ]
     }
   },
   "testnet": {
