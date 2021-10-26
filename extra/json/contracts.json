@@ -1450,6 +1450,33 @@
         "Pylon"
       ]
     },
+    "terra1cdyw7fydevn372re7xjgfh8kqrrf2lxm5k6ve3": {
+      "id": "SPECTRUM_SPEC_TWD_FARM",
+      "name": "Spec TWD Farm",
+      "protocol": "Spectrum",
+      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
+      "tags": [
+        "Spectrum"
+      ]
+    },
+    "terra1xt4ugaxds6wjehjckqchzg4e99n3cjd2rtfw4f": {
+      "id": "SPECTRUM_SPEC_VKR_FARM",
+      "name": "Spec VKR Farm",
+      "protocol": "Spectrum",
+      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
+      "tags": [
+        "Spectrum"
+      ]
+    },
+    "terra1j2hdp4jelqe9tkfwnsx5mlheqagaryxhqwr4h2": {
+      "id": "SPECTRUM_SPEC_PSI_FARM",
+      "name": "Spec Psi Farm",
+      "protocol": "Spectrum",
+      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
+      "tags": [
+        "Spectrum"
+      ]
+    },
     "terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr": {
       "id": "LOTERRA_LOTA_TOKEN",
       "name": "LOTA Token",
@@ -3547,6 +3574,33 @@
       "icon": "https://whitelist.mirror.finance/icon/MIR.png",
       "tags": [
         "Mirror"
+      ]
+    },
+    "terra19w0a2xv7vyj8yze3fxzk55nfl5nlvc0l67uduu": {
+      "id": "SPECTRUM_SPEC_TWD_FARM",
+      "name": "Spec TWD Farm",
+      "protocol": "Spectrum",
+      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
+      "tags": [
+        "Spectrum"
+      ]
+    },
+    "terra15u4nuq7jchdzklpeqzazxs09cylgndqc37tvhg": {
+      "id": "SPECTRUM_SPEC_VKR_FARM",
+      "name": "Spec VKR Farm",
+      "protocol": "Spectrum",
+      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
+      "tags": [
+        "Spectrum"
+      ]
+    },
+    "terra158j75d7kml99u3r4xy4e7xnfzmhm2j780e5npl": {
+      "id": "SPECTRUM_SPEC_PSI_FARM",
+      "name": "Spec Psi Farm",
+      "protocol": "Spectrum",
+      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
+      "tags": [
+        "Spectrum"
       ]
     },
     "terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4": {
