@@ -241,9 +241,15 @@
 "TFLOKI_TFLOKI_TOKEN","TFLOKI Token","TFLOKI","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TFLOKI.png","TFLOKI","terra1u2k0nkenw0p25ljsr4ksh7rxm65y466vkdewwj",
 "TFLOKI_NFT_TICKET_D1","TFLOKI NFT Ticket D1","TFLOKI","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TFLOKI.png","TFLOKI,NFT","terra1a8k3jyv3wf6k3zngza5h6srrxcckdf7zv90p6u",
 "TERRASWAP_TFLOKI-UST_PAIR","TFLOKI-UST PAIR","Terraswap","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TFLOKI.png","TFLOKI,Terraswap","terra1yjmpu9c3dzknf8axtp6k74nvkwrd457u7p2sdr",
+"NEXUS_BASSET_VAULT_BLUNA","Nexus Vault bLuna","Nexus","https://terra.nexusprotocol.app/assets/psi.png","Nexus,bLuna","terra1cda4adzngjzcn8quvfu2229s8tedl5t306352x",
+"NEXUS_BASSET_VAULT_STRATEGY_BLUNA","Nexus Vault Strategy bLuna","Nexus","https://terra.nexusprotocol.app/assets/psi.png","Nexus,bLuna","terra1fxc9epfhest8sndrayfkxc9y6arva4sqtp7drg",
+"NEXUS_BASSET_VAULT_BETH","Nexus Vault bETH","Nexus","https://terra.nexusprotocol.app/assets/psi.png","Nexus,bETH","terra1tfrecwlvzcv9h697q3g0d08vd53ssu5w4war4n",
+"NEXUS_BASSET_VAULT_STRATEGY_BETH","Nexus Vault Strategy bETH","Nexus","https://terra.nexusprotocol.app/assets/psi.png","Nexus,bETH","terra1h3y2mk0dwfy72fkwcm8h62y6uyy4k27m2m68kt",
 "NEXUS_PSI_TOKEN","PSI Token","Nexus","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi","terra12897djskt9rge8dtmm86w654g7kzckkd698608",
-"NEXUS_NLUNA_TOKEN","nLuna Token","Nexus","https://terra.nexusprotocol.app/nLuna.svg","Nexus,nLuna","terra10f2mt82kjnkxqj2gepgwl637u2w4ue2z5nhz5j"
-"NEXUS_NETH_TOKEN","nETH Token","Nexus","https://terra.nexusprotocol.app/nEth.svg","Nexus,nETH","terra178v546c407pdnx5rer3hu8s2c0fc924k74ymnn"
+"NEXUS_NLUNA_TOKEN","nLuna Token","Nexus","https://terra.nexusprotocol.app/nLuna.svg","Nexus,nLuna","terra10f2mt82kjnkxqj2gepgwl637u2w4ue2z5nhz5j",
+"NEXUS_NLUNA_TOKEN_CONFIG_HOLDER","nLuna Token Config Holder","Nexus","https://terra.nexusprotocol.app/nLuna.svg","Nexus,nLuna","terra1rsupnpjmnjj93a8s7twgmutvknuvzvktcd32n0",
+"NEXUS_NETH_TOKEN","nETH Token","Nexus","https://terra.nexusprotocol.app/nEth.svg","Nexus,nETH","terra178v546c407pdnx5rer3hu8s2c0fc924k74ymnn",
+"NEXUS_NETH_TOKEN_CONFIG_HOLDER","nETH Token Config Holder","Nexus","https://terra.nexusprotocol.app/nEth.svg","Nexus,nETH","terra1v58xln8ry8lx4pdt2lzpw57grksewtgqehuvah",
 "TERRASWAP_PSI-UST_PAIR","PSI-UST PAIR","Terraswap","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi,Terraswap","terra163pkeeuwxzr0yhndf8xd2jprm9hrtk59xf7nqf",
 "TERRASWAP_PSI-UST_LP","PSI-UST LP","Terraswap","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi,Terraswap","terra1q6r8hfdl203htfvpsmyh8x689lp2g0m7856fwd",
 "NEXUS_GOVERNANCE","Nexus Governance","Nexus","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi","terra1xrk6v2tfjrhjz2dsfecj40ps7ayanjx970gy0j",
