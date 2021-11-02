@@ -2324,6 +2324,50 @@
         "Terraswap"
       ]
     },
+    "terra1zvn8z6y8u2ndwvsjhtpsjsghk6pa6ugwzxp6vx": {
+      "id": "TERRASWAP_PSI-NLUNA_PAIR",
+      "name": "PSI-nLuna PAIR",
+      "protocol": "Terraswap",
+      "icon": "https://terra.nexusprotocol.app/assets/psi.png",
+      "tags": [
+        "Nexus",
+        "Psi",
+        "Terraswap"
+      ]
+    },
+    "terra1tuw46dwfvahpcwf3ulempzsn9a0vhazut87zec": {
+      "id": "TERRASWAP_PSI-NLUNA_LP",
+      "name": "PSI-nLuna LP",
+      "protocol": "Terraswap",
+      "icon": "https://terra.nexusprotocol.app/assets/psi.png",
+      "tags": [
+        "Nexus",
+        "Psi",
+        "Terraswap"
+      ]
+    },
+    "terra14zhkur7l7ut7tx6kvj28fp5q982lrqns59mnp3": {
+      "id": "TERRASWAP_PSI-NETH_PAIR",
+      "name": "PSI-nETH PAIR",
+      "protocol": "Terraswap",
+      "icon": "https://terra.nexusprotocol.app/assets/psi.png",
+      "tags": [
+        "Nexus",
+        "Psi",
+        "Terraswap"
+      ]
+    },
+    "terra1y8kxhfg22px5er32ctsgjvayaj8q36tr590qtp": {
+      "id": "TERRASWAP_PSI-NETH_LP",
+      "name": "PSI-nETH LP",
+      "protocol": "Terraswap",
+      "icon": "https://terra.nexusprotocol.app/assets/psi.png",
+      "tags": [
+        "Nexus",
+        "Psi",
+        "Terraswap"
+      ]
+    },
     "terra1xrk6v2tfjrhjz2dsfecj40ps7ayanjx970gy0j": {
       "id": "NEXUS_GOVERNANCE",
       "name": "Nexus Governance",
@@ -2375,7 +2419,7 @@
       ]
     },
     "terra12kzewegufqprmzl20nhsuwjjq6xu8t8ppzt30a": {
-      "id": "NEXUS_LP_STAKING",
+      "id": "NEXUS_PSI-UST_STAKING",
       "name": "Nexus PSI-UST LP Staking",
       "protocol": "Nexus",
       "icon": "https://terra.nexusprotocol.app/assets/psi.png",
