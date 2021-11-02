@@ -2222,6 +2222,26 @@
         "Psi"
       ]
     },
+    "terra10f2mt82kjnkxqj2gepgwl637u2w4ue2z5nhz5j": {
+      "id": "NEXUS_NLUNA_TOKEN",
+      "name": "nLuna Token",
+      "protocol": "Nexus",
+      "icon": "https://terra.nexusprotocol.app/nLuna.svg",
+      "tags": [
+        "Nexus",
+        "nLuna"
+      ]
+    },
+    "terra178v546c407pdnx5rer3hu8s2c0fc924k74ymnn": {
+      "id": "NEXUS_NETH_TOKEN",
+      "name": "nETH Token",
+      "protocol": "Nexus",
+      "icon": "https://terra.nexusprotocol.app/nEth.svg",
+      "tags": [
+        "Nexus",
+        "nETH"
+      ]
+    },
     "terra163pkeeuwxzr0yhndf8xd2jprm9hrtk59xf7nqf": {
       "id": "TERRASWAP_PSI-UST_PAIR",
       "name": "PSI-UST PAIR",

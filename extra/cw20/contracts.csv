@@ -242,6 +242,8 @@
 "TFLOKI_NFT_TICKET_D1","TFLOKI NFT Ticket D1","TFLOKI","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TFLOKI.png","TFLOKI,NFT","terra1a8k3jyv3wf6k3zngza5h6srrxcckdf7zv90p6u",
 "TERRASWAP_TFLOKI-UST_PAIR","TFLOKI-UST PAIR","Terraswap","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TFLOKI.png","TFLOKI,Terraswap","terra1yjmpu9c3dzknf8axtp6k74nvkwrd457u7p2sdr",
 "NEXUS_PSI_TOKEN","PSI Token","Nexus","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi","terra12897djskt9rge8dtmm86w654g7kzckkd698608",
+"NEXUS_NLUNA_TOKEN","nLuna Token","Nexus","https://terra.nexusprotocol.app/nLuna.svg","Nexus,nLuna","terra10f2mt82kjnkxqj2gepgwl637u2w4ue2z5nhz5j"
+"NEXUS_NETH_TOKEN","nETH Token","Nexus","https://terra.nexusprotocol.app/nEth.svg","Nexus,nETH","terra178v546c407pdnx5rer3hu8s2c0fc924k74ymnn"
 "TERRASWAP_PSI-UST_PAIR","PSI-UST PAIR","Terraswap","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi,Terraswap","terra163pkeeuwxzr0yhndf8xd2jprm9hrtk59xf7nqf",
 "TERRASWAP_PSI-UST_LP","PSI-UST LP","Terraswap","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi,Terraswap","terra1q6r8hfdl203htfvpsmyh8x689lp2g0m7856fwd",
 "NEXUS_GOVERNANCE","Nexus Governance","Nexus","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi","terra1xrk6v2tfjrhjz2dsfecj40ps7ayanjx970gy0j",
