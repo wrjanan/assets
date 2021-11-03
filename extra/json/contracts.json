@@ -785,9 +785,9 @@
     },
     "terra1w9ky73v4g7v98zzdqpqgf3kjmusnx4d4mvnac6": {
       "protocol": "Anchor",
-      "name": "Liquidation Contract",
+      "name": "Liquidation Contract (Legacy)",
       "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png",
-      "id": "ANCHOR_LIQUIDATION_CONTRACT",
+      "id": "ANCHOR_LIQUIDATION_CONTRACT_OLD",
       "tags": [
         "Anchor"
       ]
@@ -1351,6 +1351,15 @@
       "id": "TERRASWAP_BLUNA-LUNA_PAIR",
       "name": "bLUNA-LUNA Pair",
       "protocol": "Terraswap",
+      "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png",
+      "tags": [
+        "Anchor"
+      ]
+    },
+    "terra1e25zllgag7j9xsun3me4stnye2pcg66234je3u": {
+      "id": "ANCHOR_LIQUIDATION_CONTRACT",
+      "name": "Liquidation Contract (Current)",
+      "protocol": "Anchor",
       "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png",
       "tags": [
         "Anchor"
@@ -3624,9 +3633,9 @@
     },
     "terra16vc4v9hhntswzkuunqhncs9yy30mqql3gxlqfe": {
       "protocol": "Anchor",
-      "name": "Liquidation Contract",
+      "name": "Liquidation Contract (Legacy)",
       "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png",
-      "id": "ANCHOR_LIQUIDATION_CONTRACT",
+      "id": "ANCHOR_LIQUIDATION_CONTRACT_OLD",
       "tags": [
         "Anchor"
       ]
