@@ -861,6 +861,15 @@
         "Anchor"
       ]
     },
+    "terra1e25zllgag7j9xsun3me4stnye2pcg66234je3u": {
+      "protocol": "Anchor",
+      "name": "Liquidation Contract (Current)",
+      "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png",
+      "id": "ANCHOR_LIQUIDATION_CONTRACT",
+      "tags": [
+        "Anchor"
+      ]
+    },
     "terra178jydtjvj4gw8earkgnqc80c3hrmqj4kw2welz": {
       "protocol": "Terraswap",
       "name": "MINE-UST Pair",
@@ -1351,15 +1360,6 @@
       "id": "TERRASWAP_BLUNA-LUNA_PAIR",
       "name": "bLUNA-LUNA Pair",
       "protocol": "Terraswap",
-      "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png",
-      "tags": [
-        "Anchor"
-      ]
-    },
-    "terra1e25zllgag7j9xsun3me4stnye2pcg66234je3u": {
-      "id": "ANCHOR_LIQUIDATION_CONTRACT",
-      "name": "Liquidation Contract (Current)",
-      "protocol": "Anchor",
       "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png",
       "tags": [
         "Anchor"
@@ -3708,6 +3708,12 @@
       "tags": [
         "Anchor"
       ]
+    },
+    "terra18j0wd0f62afcugw2rx5y8e6j5qjxd7d6qsc87r": {
+      "protocol": "Anchor",
+      "name": "Liquidation Queue",
+      "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png",
+      "id": "ANCHOR_LIQUIDATION_QUEUE"
     },
     "terra17av0lfhqymusm6j9jpepzerg6u54q57jp7xnrz": {
       "protocol": "Pylon",
