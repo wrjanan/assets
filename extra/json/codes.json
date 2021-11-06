@@ -1,0 +1,14 @@
+{
+    "mainnet": {
+        "3": {
+            "name": "CW20 Token (Code 3)"
+        },
+        "4": {
+            "name": "Terraswap Pair"
+        },
+        "986": {
+            "name": "Talis Minter"
+        }
+    },
+    "testnet": {}
+}
