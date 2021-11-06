@@ -1365,6 +1365,16 @@
         "Anchor"
       ]
     },
+    "terra1wr2mkhdx65wmlfk7aycpyy50kxf8ugckznr6ta": {
+      "id": "DEVIANTS_STARTER_PACK_MINT",
+      "name": "Deviants Starter Pack Mint",
+      "protocol": "Deviants",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/DEVIANTS60.jpg",
+      "tags": [
+        "Deviants",
+        "Knowhere"
+      ]
+    },
     "terra1zvsv534gx7xppq4yfstslmsgc3jmkfak4mlrv4": {
       "id": "PYLON_CORE_FEEDER",
       "name": "Core Feeder",
