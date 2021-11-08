@@ -4,67 +4,67 @@
 "TERRASWAP_TOKENFACTORY","TokenFactory","Terraswap","https://whitelist.mirror.finance/icon/terraswap.png",,"terra1ulgw0td86nvs4wtpsc80thv6xelk76ut7a7apj","terra18qpjm4zkvqnpjpw0zn0tdr8gdzvt8au35v45xf"
 "TERRASWAP_ALTE-UST_PAIR","ALTE-UST Pair","Terraswap","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/ALTE60.png","Altered","terra18adm0emn6j3pnc90ldechhun62y898xrdmfgfz",
 "TERRASWAP_ALTE-UST_LP","ALTE-UST LP","Terraswap","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/ALTE60.png","Altered","terra1x3musrr03tl3dy9xhagm6r5nthwwxgx0hezc79",
-"TERRASWAP_MIR-UST_PAIR","MIR-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/MIR.png","Mirror","terra1amv303y8kzxuegvurh0gug2xe9wkgj65enq2ux","terra1cz6qp8lfwht83fh9xm9n94kj04qc35ulga5dl0"
+"TERRASWAP_MIR-UST_PAIR","MIR-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/MIR.png","Mirror,whitelist","terra1amv303y8kzxuegvurh0gug2xe9wkgj65enq2ux","terra1cz6qp8lfwht83fh9xm9n94kj04qc35ulga5dl0"
 "TERRASWAP_MIR-UST_LP","MIR-UST LP","Terraswap","https://whitelist.mirror.finance/icon/MIR.png","Mirror","terra17gjf2zehfvnyjtdgua9p9ygquk6gukxe7ucgwh","terra1zrryfhlrpg49quz37u90ck6f396l4xdjs5s08j"
-"TERRASWAP_MAAPL-UST_PAIR","mAAPL-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/AAPL.png","Mirror","terra1774f8rwx76k7ruy0gqnzq25wh7lmd72eg6eqp5","terra1yj892rl8edvk0y2ayf3h36t6uf89lzxg8jea4a"
+"TERRASWAP_MAAPL-UST_PAIR","mAAPL-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/AAPL.png","Mirror,whitelist","terra1774f8rwx76k7ruy0gqnzq25wh7lmd72eg6eqp5","terra1yj892rl8edvk0y2ayf3h36t6uf89lzxg8jea4a"
 "TERRASWAP_MAAPL-UST_LP","mAAPL-UST LP","Terraswap","https://whitelist.mirror.finance/icon/AAPL.png","Mirror","terra122asauhmv083p02rhgyp7jn7kmjjm4ksexjnks","terra1vth958fsn8zawllaqcdzswksjkv3dz2sqqmcu4"
-"TERRASWAP_MGOOGL-UST_PAIR","mGOOGL-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/GOOGL.png","Mirror","terra1u56eamzkwzpm696hae4kl92jm6xxztar9uhkea","terra1z2734asgwhma8ma2fq4yu7ce2l3mrvj4qnz6ws"
+"TERRASWAP_MGOOGL-UST_PAIR","mGOOGL-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/GOOGL.png","Mirror,whitelist","terra1u56eamzkwzpm696hae4kl92jm6xxztar9uhkea","terra1z2734asgwhma8ma2fq4yu7ce2l3mrvj4qnz6ws"
 "TERRASWAP_MGOOGL-UST_LP","mGOOGL-UST LP","Terraswap","https://whitelist.mirror.finance/icon/GOOGL.png","Mirror","terra1falkl6jy4087h4z567y2l59defm9acmwcs70ts","terra1qxurxcgl30eu4ar34ltr5e9tqc2gjl4atspvy3"
-"TERRASWAP_MHOOD-UST_PAIR","mHOOD-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/HOOD.png","Mirror","terra1lr6rglgd50xxzqe6l5axaqp9d5ae3xf69z3qna",
+"TERRASWAP_MHOOD-UST_PAIR","mHOOD-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/HOOD.png","Mirror,whitelist","terra1lr6rglgd50xxzqe6l5axaqp9d5ae3xf69z3qna",
 "TERRASWAP_MHOOD-UST_LP","mHOOD-UST LP","Terraswap","https://whitelist.mirror.finance/icon/HOOD.png","Mirror","terra1s0dgcsdy9kgunnf3gnwl40uwy9rxtmc39mhy2m",
-"TERRASWAP_MTSLA-UST_PAIR","mTSLA-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/TSLA.png","Mirror","terra1pdxyk2gkykaraynmrgjfq2uu7r9pf5v8x7k4xk","terra1tsln42kfeq8edwscmw8njgter5dp8evn40znn9"
+"TERRASWAP_MTSLA-UST_PAIR","mTSLA-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/TSLA.png","Mirror,whitelist","terra1pdxyk2gkykaraynmrgjfq2uu7r9pf5v8x7k4xk","terra1tsln42kfeq8edwscmw8njgter5dp8evn40znn9"
 "TERRASWAP_MTSLA-UST_LP","mTSLA-UST LP","Terraswap","https://whitelist.mirror.finance/icon/TSLA.png","Mirror","terra1ygazp9w7tx64rkx5wmevszu38y5cpg6h3fk86e","terra1utf7qw0uce42vqsh255hxgd3pvuzfvp6jcayk5"
-"TERRASWAP_MNFLX-UST_PAIR","mNFLX-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/NFLX.png","Mirror","terra1yppvuda72pvmxd727knemvzsuergtslj486rdq","terra18yl0z6wntjkustt9cckc9ptp7l5qh7kr0xrmav"
+"TERRASWAP_MNFLX-UST_PAIR","mNFLX-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/NFLX.png","Mirror,whitelist","terra1yppvuda72pvmxd727knemvzsuergtslj486rdq","terra18yl0z6wntjkustt9cckc9ptp7l5qh7kr0xrmav"
 "TERRASWAP_MNFLX-UST_LP","mNFLX-UST LP","Terraswap","https://whitelist.mirror.finance/icon/NFLX.png","Mirror","terra1mwu3cqzvhygqg7vrsa6kfstgg9d6yzkgs6yy3t","terra1e0njrqcsehxpt9due62x9zsxl7h9htl0xqdujv"
-"TERRASWAP_MQQQ-UST_PAIR","mQQQ-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/QQQ.png","Mirror","terra1dkc8075nv34k2fu6xn6wcgrqlewup2qtkr4ymu","terra1epxv8z6tzxezjfgw7tveytw5n3fuf6wvg6w8f5"
+"TERRASWAP_MQQQ-UST_PAIR","mQQQ-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/QQQ.png","Mirror,whitelist","terra1dkc8075nv34k2fu6xn6wcgrqlewup2qtkr4ymu","terra1epxv8z6tzxezjfgw7tveytw5n3fuf6wvg6w8f5"
 "TERRASWAP_MQQQ-UST_LP","mQQQ-UST LP","Terraswap","https://whitelist.mirror.finance/icon/QQQ.png","Mirror","terra16j09nh806vaql0wujw8ktmvdj7ph8h09ltjs2r","terra1h52zc9qmndczgru9vp2cvuwfclyykl5yt3qjk8"
-"TERRASWAP_MTWTR-UST_PAIR","mTWTR-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/TWTR.png","Mirror","terra1ea9js3y4l7vy0h46k4e5r5ykkk08zc3fx7v4t8","terra1jv937296dy5c5dxglrzf05h0jlaaxp55tqlyh6"
+"TERRASWAP_MTWTR-UST_PAIR","mTWTR-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/TWTR.png","Mirror,whitelist","terra1ea9js3y4l7vy0h46k4e5r5ykkk08zc3fx7v4t8","terra1jv937296dy5c5dxglrzf05h0jlaaxp55tqlyh6"
 "TERRASWAP_MTWTR-UST_LP","mTWTR-UST LP","Terraswap","https://whitelist.mirror.finance/icon/TWTR.png","Mirror","terra1fc5a5gsxatjey9syq93c2n3xq90n06t60nkj6l","terra10cugucjwn4hdtvavl0n2sh2ke64nx93luhj49k"
-"TERRASWAP_MMSFT-UST_PAIR","mMSFT-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/MSFT.png","Mirror","terra10ypv4vq67ns54t5ur3krkx37th7j58paev0qhd","terra1dt7ne6gwv23wg6chl89q95yj6999alagc6rqd9"
+"TERRASWAP_MMSFT-UST_PAIR","mMSFT-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/MSFT.png","Mirror,whitelist","terra10ypv4vq67ns54t5ur3krkx37th7j58paev0qhd","terra1dt7ne6gwv23wg6chl89q95yj6999alagc6rqd9"
 "TERRASWAP_MMSFT-UST_LP","mMSFT-UST LP","Terraswap","https://whitelist.mirror.finance/icon/MSFT.png","Mirror","terra14uaqudeylx6tegamqmygh85lfq8qg2jmg7uucc","terra1f7azmktepw5rq35e2m6r6smtwl8wdrxp0dsvar"
-"TERRASWAP_MAMZN-UST_PAIR","mAMZN-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/AMZN.png","Mirror","terra1vkvmvnmex90wanque26mjvay2mdtf0rz57fm6d","terra1xs3vy9zs8agmnzyn7z9s7kqk392uu2h3x3l6er"
+"TERRASWAP_MAMZN-UST_PAIR","mAMZN-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/AMZN.png","Mirror,whitelist","terra1vkvmvnmex90wanque26mjvay2mdtf0rz57fm6d","terra1xs3vy9zs8agmnzyn7z9s7kqk392uu2h3x3l6er"
 "TERRASWAP_MAMZN-UST_LP","mAMZN-UST LP","Terraswap","https://whitelist.mirror.finance/icon/AMZN.png","Mirror","terra1q7m2qsj3nzlz5ng25z5q5w5qcqldclfe3ljup9","terra1kgvcrtupc8y4dgc9n08ud99ckdxp08j59zgccf"
-"TERRASWAP_MBABA-UST_PAIR","mBABA-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/BABA.png","Mirror","terra1afdz4l9vsqddwmjqxmel99atu4rwscpfjm4yfp","terra15qq59h2canrr2pf8ny7rw57nx3mcvw97tp3xj4"
+"TERRASWAP_MBABA-UST_PAIR","mBABA-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/BABA.png","Mirror,whitelist","terra1afdz4l9vsqddwmjqxmel99atu4rwscpfjm4yfp","terra15qq59h2canrr2pf8ny7rw57nx3mcvw97tp3xj4"
 "TERRASWAP_MBABA-UST_LP","mBABA-UST LP","Terraswap","https://whitelist.mirror.finance/icon/BABA.png","Mirror","terra1stfeev27wdf7er2uja34gsmrv58yv397dlxmyn","terra1px2ya3e07aprfgc76e57r3nuvy3czssrvcxg9t"
 "TERRASWAP_MIAU-UST_DELISTED_PAIR","mIAU (Delisted)-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/IAU.png","Mirror","terra1q2cg4sauyedt8syvarc8hcajw6u94ah40yp342","terra1tq6w7rl4ryrk458k57dstelx54eylph5zwnpf9"
 "TERRASWAP_MIAU-UST_DELISTED_LP","mIAU (Delisted)-UST LP","Terraswap","https://whitelist.mirror.finance/icon/IAU.png","Mirror","terra1jl4vkz3fllvj6fchnj2trrm9argtqxq6335ews","terra193c2xvuzswct8qtsg4e6qhe3hyt3l6fac9cy79"
-"TERRASWAP_MIAU-UST_PAIR","mIAU-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/IAU.png","Mirror","terra15kkctr4eug9txq7v6ks6026yd4zjkrm3mc0nkp","terra1rtz5mn38pnj924nr97yzax4g849qj4d4m8r7wk"
+"TERRASWAP_MIAU-UST_PAIR","mIAU-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/IAU.png","Mirror,whitelist","terra15kkctr4eug9txq7v6ks6026yd4zjkrm3mc0nkp","terra1rtz5mn38pnj924nr97yzax4g849qj4d4m8r7wk"
 "TERRASWAP_MIAU-UST_LP","mIAU-UST LP","Terraswap","https://whitelist.mirror.finance/icon/IAU.png","Mirror","terra1ndlx5ndkknvmgj6s5ggmdlhjjsz0w6wrnwn5cf","terra1wj8cm3h7fe369nl8j4ddukesfuy9l3hr4hjw22"
-"TERRASWAP_MSLV-UST_PAIR","mSLV-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/SLV.png","Mirror","terra1f6d9mhrsl5t6yxqnr4rgfusjlt3gfwxdveeyuy","terra1tyzsl0dw4pltlqey5v6g646hm22pql8vy3yh2g"
+"TERRASWAP_MSLV-UST_PAIR","mSLV-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/SLV.png","Mirror,whitelist","terra1f6d9mhrsl5t6yxqnr4rgfusjlt3gfwxdveeyuy","terra1tyzsl0dw4pltlqey5v6g646hm22pql8vy3yh2g"
 "TERRASWAP_MSLV-UST_LP","mSLV-UST LP","Terraswap","https://whitelist.mirror.finance/icon/SLV.png","Mirror","terra178cf7xf4r9d3z03tj3pftewmhx0x2p77s0k6yh","terra16cn5cgwaktrzczda0c6ux0e2quudh4vn3t8jjm"
-"TERRASWAP_MUSO-UST_PAIR","mUSO-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/USO.png","Mirror","terra1zey9knmvs2frfrjnf4cfv4prc4ts3mrsefstrj","terra1llk7ycwwlj2zs2l2dvnvmsxrsrnucqwaltstcf"
+"TERRASWAP_MUSO-UST_PAIR","mUSO-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/USO.png","Mirror,whitelist","terra1zey9knmvs2frfrjnf4cfv4prc4ts3mrsefstrj","terra1llk7ycwwlj2zs2l2dvnvmsxrsrnucqwaltstcf"
 "TERRASWAP_MUSO-UST_LP","mUSO-UST LP","Terraswap","https://whitelist.mirror.finance/icon/USO.png","Mirror","terra1utf3tm35qk6fkft7ltcnscwml737vfz7xghwn5","terra1rag9w5ch0jrdxjffr6napqz0zsrpm6uz2zezmj"
 "TERRASWAP_MVIXY-UST_DELISTED_PAIR","mVIXY (Delisted)-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/VIXY.png","Mirror","terra1yngadscckdtd68nzw5r5va36jccjmmasm7klpp","terra1xg2393l4s7n4z2r0cnu4rr55mkpp942f4d3qzr"
 "TERRASWAP_MVIXY-UST_DELISTED_LP","mVIXY (Delisted)-UST LP","Terraswap","https://whitelist.mirror.finance/icon/VIXY.png","Mirror","terra1cmrl4txa7cwd7cygpp4yzu7xu8g7c772els2y8","terra1ud750vcv39hd467sj2kk6s6nn8zf5xhgggf7uq"
-"TERRASWAP_MVIXY-UST_PAIR","mVIXY-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/VIXY.png","Mirror","terra1krny2jc0tpkzeqfmswm7ss8smtddxqm3mxxsjm","terra1tfkksph7p9qkean66kc87u2kalu0pw9um9ep2y"
+"TERRASWAP_MVIXY-UST_PAIR","mVIXY-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/VIXY.png","Mirror,whitelist","terra1krny2jc0tpkzeqfmswm7ss8smtddxqm3mxxsjm","terra1tfkksph7p9qkean66kc87u2kalu0pw9um9ep2y"
 "TERRASWAP_MVIXY-UST_LP","mVIXY-UST LP","Terraswap","https://whitelist.mirror.finance/icon/VIXY.png","Mirror","terra1ekd58y58vq4gmxlzpc27dwuhw7wmms928ftuep","terra1h9zrywpukj2wvu5dfsm7tcxk8mwzzyrxenshsn"
-"TERRASWAP_MABNB-UST_PAIR","mABNB-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/ABNB.png","Mirror","terra1gq7lq389w4dxqtkxj03wp0fvz0cemj0ek5wwmm","terra13009wwv5flguch7kmwcgq8zz4r7asam3vmxkn6"
+"TERRASWAP_MABNB-UST_PAIR","mABNB-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/ABNB.png","Mirror,whitelist","terra1gq7lq389w4dxqtkxj03wp0fvz0cemj0ek5wwmm","terra13009wwv5flguch7kmwcgq8zz4r7asam3vmxkn6"
 "TERRASWAP_MABNB-UST_LP","mABNB-UST LP","Terraswap","https://whitelist.mirror.finance/icon/ABNB.png","Mirror","terra1jmauv302lfvpdfau5nhzy06q0j2f9te4hy2d07","terra1d7xlu53sx9anwdqvxeya0tmhr7xzepd9agyvft"
-"TERRASWAP_MBTC-UST_PAIR","mBTC-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/BTC.png","Mirror","terra1prfcyujt9nsn5kfj5n925sfd737r2n8tk5lmpv","terra134jl4dt20mqfryhnmhauryr754vuw7990jdell"
+"TERRASWAP_MBTC-UST_PAIR","mBTC-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/BTC.png","Mirror,whitelist","terra1prfcyujt9nsn5kfj5n925sfd737r2n8tk5lmpv","terra134jl4dt20mqfryhnmhauryr754vuw7990jdell"
 "TERRASWAP_MBTC-UST_LP","mBTC-UST LP","Terraswap","https://whitelist.mirror.finance/icon/BTC.png","Mirror","terra1d34edutzwcz6jgecgk26mpyynqh74j3emdsnq5","terra186m890y8hzhyhp8emgsy2a8jqvsgluznc688xf"
-"TERRASWAP_METH-UST_PAIR","mETH-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/ETH.png","Mirror","terra14fyt2g3umeatsr4j4g2rs8ca0jceu3k0mcs7ry","terra1j4urgdl38ezrrs59fn403cxgr34u3yd0tv4ypn"
+"TERRASWAP_METH-UST_PAIR","mETH-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/ETH.png","Mirror,whitelist","terra14fyt2g3umeatsr4j4g2rs8ca0jceu3k0mcs7ry","terra1j4urgdl38ezrrs59fn403cxgr34u3yd0tv4ypn"
 "TERRASWAP_METH-UST_LP","mETH-UST LP","Terraswap","https://whitelist.mirror.finance/icon/ETH.png","Mirror","terra16auz7uhnuxrj2dzrynz2elthx5zpps5gs6tyln","terra1lgxdj5wag4ug7le6arda5pd7z9xlpstgc2ue8t"
-"TERRASWAP_MFB-UST_PAIR","mFB-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/FB.png","Mirror","terra1yl2atgxw422qxahm02p364wtgu7gmeya237pcs","terra19jp7wqla5qrdusrcqest6rrc33wyvs0fumwd7v"
+"TERRASWAP_MFB-UST_PAIR","mFB-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/FB.png","Mirror,whitelist","terra1yl2atgxw422qxahm02p364wtgu7gmeya237pcs","terra19jp7wqla5qrdusrcqest6rrc33wyvs0fumwd7v"
 "TERRASWAP_MFB-UST_LP","mFB-UST LP","Terraswap","https://whitelist.mirror.finance/icon/FB.png","Mirror","terra1jh2dh4g65hptsrwjv53nhsnkwlw8jdrxaxrca0","terra1l8c87av89cczj20mguxy0hmp6k6hesr0yjthkm"
-"TERRASWAP_MGS-UST_PAIR","mGS-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/GS.png","Mirror","terra108ukjf6ekezuc52t9keernlqxtmzpj4wf7rx0h","terra1h73gdv74gw03gc5rfyc0y6s8advl9y2453zgcw"
+"TERRASWAP_MGS-UST_PAIR","mGS-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/GS.png","Mirror,whitelist","terra108ukjf6ekezuc52t9keernlqxtmzpj4wf7rx0h","terra1h73gdv74gw03gc5rfyc0y6s8advl9y2453zgcw"
 "TERRASWAP_MGS-UST_LP","mGS-UST LP","Terraswap","https://whitelist.mirror.finance/icon/GS.png","Mirror","terra17smg3rl9vdpawwpe7ex4ea4xm6q038gp2chge5","terra1xwk2x2pyrhlshjgnlv3ql5q8r8r8vyrdf6u2mj"
-"TERRASWAP_MGME-UST_PAIR","mGME-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/GME.png","Mirror","terra17eakdtane6d2y7y6v0s79drq7gnhzqan48kxw7","terra1q9qtdudqasdcgqmklw2hsnju09zcjhrhr8ntsa"
+"TERRASWAP_MGME-UST_PAIR","mGME-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/GME.png","Mirror,whitelist","terra17eakdtane6d2y7y6v0s79drq7gnhzqan48kxw7","terra1q9qtdudqasdcgqmklw2hsnju09zcjhrhr8ntsa"
 "TERRASWAP_MGME-UST_LP","mGME-UST LP","Terraswap","https://whitelist.mirror.finance/icon/GME.png","Mirror","terra1azk43zydh3sdxelg3h4csv4a4uef7fmjy0hu20","terra1kkpe6has6g55nhyqp6vkw0wk8z3u3nq6fz6znc"
-"TERRASWAP_MAMC-UST_PAIR","mAMC-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/AMC.png","Mirror","terra1uenpalqlmfaf4efgtqsvzpa3gh898d9h2a232g","terra1nvevc6ff7vlmrd50ucuefa95xd2gzmy6lugqsm"
+"TERRASWAP_MAMC-UST_PAIR","mAMC-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/AMC.png","Mirror,whitelist","terra1uenpalqlmfaf4efgtqsvzpa3gh898d9h2a232g","terra1nvevc6ff7vlmrd50ucuefa95xd2gzmy6lugqsm"
 "TERRASWAP_MAMC-UST_LP","mAMC-UST LP","Terraswap","https://whitelist.mirror.finance/icon/AMC.png","Mirror","terra1mtvslkm2tgsmh908dsfksnqu7r7lulh24a6knv","terra1d8mk480l4sp3j095apcpqckrxyxqrsq6zapfzy"
-"TERRASWAP_MSPY-UST_PAIR","mSPY-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/SPY.png","Mirror","terra14hklnm2ssaexjwkcfhyyyzvpmhpwx6x6lpy39s","terra10q4qsd2sfl4wc6nv0d77zud4ur40ygf5602pzd"
+"TERRASWAP_MSPY-UST_PAIR","mSPY-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/SPY.png","Mirror,whitelist","terra14hklnm2ssaexjwkcfhyyyzvpmhpwx6x6lpy39s","terra10q4qsd2sfl4wc6nv0d77zud4ur40ygf5602pzd"
 "TERRASWAP_MSPY-UST_LP","mSPY-UST LP","Terraswap","https://whitelist.mirror.finance/icon/SPY.png","Mirror","terra1jqqegd35rg2gjde54adpj3t6ecu0khfeaarzy9","terra1pef9fz8lkqajzuwp6ff6t33s86ndpkm3728cgc"
-"TERRASWAP_MCOIN-UST_PAIR","mCOIN-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/COIN.png","Mirror","terra1h7t2yq00rxs8a78nyrnhlvp0ewu8vnfnx5efsl","terra13qzses7zpsyrufx38h0kc3p87523cjgwmenj44"
+"TERRASWAP_MCOIN-UST_PAIR","mCOIN-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/COIN.png","Mirror,whitelist","terra1h7t2yq00rxs8a78nyrnhlvp0ewu8vnfnx5efsl","terra13qzses7zpsyrufx38h0kc3p87523cjgwmenj44"
 "TERRASWAP_MCOIN-UST_LP","mCOIN-UST LP","Terraswap","https://whitelist.mirror.finance/icon/COIN.png","Mirror","terra1ktckr8v7judrr6wkwv476pwsv8mht0zqzw2t0h","terra1gdglgpm84pdzuedc924wurhsqd0vs4nv4tpmh8"
-"TERRASWAP_MGLXY-UST_PAIR","mGLXY-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/GLXY.png","Mirror","terra1ze5f2lm5clq2cdd9y2ve3lglfrq6ap8cqncld8",
+"TERRASWAP_MGLXY-UST_PAIR","mGLXY-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/GLXY.png","Mirror,whitelist","terra1ze5f2lm5clq2cdd9y2ve3lglfrq6ap8cqncld8",
 "TERRASWAP_MGLXY-UST_LP","mGLXY-UST LP","Terraswap","https://whitelist.mirror.finance/icon/GLXY.png","Mirror","terra1pjgzke6h5v4nz978z3a92gqajwhn8yyh5kv4zv",
-"TERRASWAP_MAMD-UST_PAIR","mAMD-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/AMD.png","Mirror","terra18cxcwv0theanknfztzww8ft9pzfgkmf2xrqy23","terra12q2ehzn8jah7mfez9d0f7ztsu3vdf0g3mxzztq"
+"TERRASWAP_MAMD-UST_PAIR","mAMD-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/AMD.png","Mirror,whitelist","terra18cxcwv0theanknfztzww8ft9pzfgkmf2xrqy23","terra12q2ehzn8jah7mfez9d0f7ztsu3vdf0g3mxzztq"
 "TERRASWAP_MAMD-UST_LP","mAMD-UST LP","Terraswap","https://whitelist.mirror.finance/icon/AMD.png","Mirror","terra1m8mr9u3su46ezxwf7z7xnvm0jsapl2jd8vgefh","terra1lu2eg3hghmkd0s5jdsnr24mg5cremf0e8dpz4l"
-"TERRASWAP_MDOT-UST_PAIR","mDOT-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/DOT.png","Mirror","terra17rvtq0mjagh37kcmm4lmpz95ukxwhcrrltgnvc","terra1722gzus7s6prj24wnzsqfkn0t8k7hc4p847tlw"
+"TERRASWAP_MDOT-UST_PAIR","mDOT-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/DOT.png","Mirror,whitelist","terra17rvtq0mjagh37kcmm4lmpz95ukxwhcrrltgnvc","terra1722gzus7s6prj24wnzsqfkn0t8k7hc4p847tlw"
 "TERRASWAP_MDOT-UST_LP","mDOT-UST LP","Terraswap","https://whitelist.mirror.finance/icon/DOT.png","Mirror","terra1p60datmmf25wgssguv65ltds3z6ea3me74nm2e","terra1xrjygqshp9shcgfm4vj89mezxev36fk4na3ft2"
-"TERRASWAP_MSQ-UST_PAIR","mSQ-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/SQ.png","Mirror","terra1u3pknaazmmudfwxsclcfg3zy74s3zd3anc5m52","terra1znqeqnumtmpwgdltfw72v2298m3lrg7m447f2q"
+"TERRASWAP_MSQ-UST_PAIR","mSQ-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/SQ.png","Mirror,whitelist","terra1u3pknaazmmudfwxsclcfg3zy74s3zd3anc5m52","terra1znqeqnumtmpwgdltfw72v2298m3lrg7m447f2q"
 "TERRASWAP_MSQ-UST_LP","mSQ-UST LP","Terraswap","https://whitelist.mirror.finance/icon/SQ.png","Mirror","terra1mv3pgkzs4krcennqj442jscg6jv84cejrs50n2","terra1d6l7vk5ktugx9qm6nmtd2hv7kleg9xqce0ncps"
-"TERRASWAP_MARKK-UST_PAIR","mARKK-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/ARKK.png","Mirror","terra1a5cc08jt5knh0yx64pg6dtym4c4l8t63rhlag3","terra1t3xljlc82tmc0xjpfcrnu44phg2s4mt5rt3llm"
+"TERRASWAP_MARKK-UST_PAIR","mARKK-UST Pair","Terraswap","https://whitelist.mirror.finance/icon/ARKK.png","Mirror,whitelist","terra1a5cc08jt5knh0yx64pg6dtym4c4l8t63rhlag3","terra1t3xljlc82tmc0xjpfcrnu44phg2s4mt5rt3llm"
 "TERRASWAP_MARKK-UST_LP","mARKK-UST LP","Terraswap","https://whitelist.mirror.finance/icon/ARKK.png","Mirror","terra1veqh8yc55mhw0ttjr5h6g9a6r9nylmrc0nzhr7","terra1plwkt2fj8n9xkfdp9z6f5sp6r63vx2s22mznls"
 "TERRASWAP_LUNA-KRT_PAIR","LUNA-KRT Pair","Terraswap","https://assets.terra.money/icon/60/KRT.png",,"terra1zw0kfxrxgrs5l087mjm79hcmj3y8z6tljuhpmc","terra1rfzwcdhhu502xws6r5pxw4hx8c6vms772d6vyu"
 "TERRASWAP_LUNA-KRT_LP","LUNA-KRT LP","Terraswap","https://assets.terra.money/icon/60/KRT.png",,"terra12dnl585uxzddjw9hw4ca694f054shgpg93cg90","terra1k5rz6hh83zdufxgca22r0tygtdp8kx07g3yqs7"
@@ -74,11 +74,11 @@
 "TERRASWAP_LUNA-SDT_LP","LUNA-SDT LP","Terraswap","https://assets.terra.money/icon/60/SDT.png",,"terra1mljg7dvzknqh3gc62emagf7hwxxg8efemennp8","terra1vgj59typ39hvgewy824g3uf42fjeegvd4fcsqy"
 "TERRASWAP_LUNA-UST_PAIR","LUNA-UST Pair","Terraswap","https://assets.terra.money/icon/60/UST.png",,"terra1tndcaqxkpc5ce9qee5ggqf430mr2z3pefe5wj6","terra156v8s539wtz0sjpn8y8a8lfg8fhmwa7fy22aff"
 "TERRASWAP_LUNA-UST_LP","LUNA-UST LP","Terraswap","https://assets.terra.money/icon/60/UST.png",,"terra17dkr9rnmtmu7x4azrpupukvur2crnptyfvsrvr","terra1srf30cs8ax73y59gm64lkztnx0zexl8fpv3kx2"
-"TERRASWAP_MINE-UST_PAIR","MINE-UST Pair","Terraswap","https://finder.extraterrestrial.money/images/PYL100.png","Pylon","terra178jydtjvj4gw8earkgnqc80c3hrmqj4kw2welz","terra1n2xmlwqpp942nfqq2muxn0u0mqk3sylekdpqfv"
+"TERRASWAP_MINE-UST_PAIR","MINE-UST Pair","Terraswap","https://finder.extraterrestrial.money/images/PYL100.png","Pylon,whitelist","terra178jydtjvj4gw8earkgnqc80c3hrmqj4kw2welz","terra1n2xmlwqpp942nfqq2muxn0u0mqk3sylekdpqfv"
 "TERRASWAP_MINE-UST_LP","MINE-UST LP","Terraswap","https://finder.extraterrestrial.money/images/PYL100.png","Pylon","terra1rqkyau9hanxtn63mjrdfhpnkpddztv3qav0tq2",
-"TERRASWAP_LOTA-UST_PAIR","LOTA-UST Pair","Terraswap","https://loterra.io/LOTA.png","LoTerra","terra1pn20mcwnmeyxf68vpt3cyel3n57qm9mp289jta","terra1fh2je8z4gajnvfm6xd80hqc3cpga0gsl396rls"
+"TERRASWAP_LOTA-UST_PAIR","LOTA-UST Pair","Terraswap","https://loterra.io/LOTA.png","LoTerra,whitelist","terra1pn20mcwnmeyxf68vpt3cyel3n57qm9mp289jta","terra1fh2je8z4gajnvfm6xd80hqc3cpga0gsl396rls"
 "TERRASWAP_LOTA-UST_LP","LOTA-UST LP","Terraswap","https://loterra.io/LOTA.png","LoTerra","terra1t4xype7nzjxrzttuwuyh9sglwaaeszr8l78u6e",
-"TERRASWAP_STT-UST_PAIR","STT-UST Pair","Terraswap","https://starterra.io/assets/100x100_starterra.png","StarTerra","terra19pg6d7rrndg4z4t0jhcd7z9nhl3p5ygqttxjll","terra1ad6frc2e65w5a2nc78xr9e7f9dlkjt9h39r5qn"
+"TERRASWAP_STT-UST_PAIR","STT-UST Pair","Terraswap","https://starterra.io/assets/100x100_starterra.png","StarTerra,whitelist","terra19pg6d7rrndg4z4t0jhcd7z9nhl3p5ygqttxjll","terra1ad6frc2e65w5a2nc78xr9e7f9dlkjt9h39r5qn"
 "TERRASWAP_STT-UST_LP","STT-UST LP","Terraswap","https://starterra.io/assets/100x100_starterra.png","StarTerra","terra1uwhf02zuaw7grj6gjs7pxt5vuwm79y87ct5p70",
 "ANCHOR_GOVERNANCE","Governance","Anchor","https://whitelist.anchorprotocol.com/logo/ANC.png",,"terra1f32xyep306hhcxxxf7mlyh0ucggc00rm2s9da5","terra16ckeuu7c6ggu52a8se005mg5c0kd2kmuun63cu"
 "MARS_MARS_TOKEN","Mars Token","Mars","https://marsprotocol.io/mars_logo_colored.svg","Mars","terra1a7zxk56c72elupp7p44hn4k94fsvavnhylhr6h",
@@ -92,17 +92,17 @@
 "MIRROR_AIRDROP","Airdrop","Mirror","https://whitelist.mirror.finance/icon/MIR.png","Mirror","terra1kalp2knjm4cs3f59ukr4hdhuuncp648eqrgshw","terra1p6nvyw7vz3fgpy4nyh3q3vc09e65sr97ejxn2p"
 "MIRROR_LIMIT_ORDER","Limit Order","Mirror","https://whitelist.mirror.finance/icon/MIR.png","Mirror","terra1zpr8tq3ts96mthcdkukmqq4y9lhw0ycevsnw89","terra1vc4ch0z3n6c23f9uywzy5yqaj2gmpnam8qgge7"
 "MIRROR_MIR_TOKEN","Mirror Token","Mirror","https://whitelist.mirror.finance/icon/MIR.png","Mirror","terra15gwkyepfc6xgca5t5zefzwy42uts8l2m4g40k6","terra10llyp6v3j3her8u3ce66ragytu45kcmd9asj3u"
-"TERRASWAP_ANC-UST_PAIR","ANC-UST Pair","Terraswap","https://whitelist.anchorprotocol.com/logo/ANC.png","Anchor","terra1gm5p3ner9x9xpwugn9sp6gvhd0lwrtkyrecdn3","terra1wfvczps2865j0awnurk9m04u7wdmd6qv3fdnvz"
+"TERRASWAP_ANC-UST_PAIR","ANC-UST Pair","Terraswap","https://whitelist.anchorprotocol.com/logo/ANC.png","Anchor,whitelist","terra1gm5p3ner9x9xpwugn9sp6gvhd0lwrtkyrecdn3","terra1wfvczps2865j0awnurk9m04u7wdmd6qv3fdnvz"
 "TERRASWAP_ANC-UST_LP","ANC-UST LP","Terraswap","https://whitelist.anchorprotocol.com/logo/ANC.png","Anchor","terra1gecs98vcuktyfkrve9czrpgtg0m3aq586x6gzm","terra1vg0qyq92ky9z9dp0j9fv5rmr2s80sg605dah6f"
-"TERRASWAP_BETH-UST_PAIR","bETH-UST Pair","Terraswap","https://whitelist.anchorprotocol.com/logo/bETH.png","Anchor","terra1c0afrdc5253tkp5wt7rxhuj42xwyf2lcre0s7c",
+"TERRASWAP_BETH-UST_PAIR","bETH-UST Pair","Terraswap","https://whitelist.anchorprotocol.com/logo/bETH.png","Anchor,whitelist","terra1c0afrdc5253tkp5wt7rxhuj42xwyf2lcre0s7c",
 "TERRASWAP_BETH-UST_LP","bETH-UST LP","Terraswap","https://whitelist.anchorprotocol.com/logo/bETH.png","Anchor","terra1jvewsf7922dm47wr872crumps7ktxd7srwcgte",
-"TERRASWAP_BETH-METH_PAIR","bETH-mETH Pair","Terraswap","https://whitelist.anchorprotocol.com/logo/bETH.png","Anchor","terra1c5swgtnuunpf75klq5uztynurazuwqf0mmmcyy",
+"TERRASWAP_BETH-METH_PAIR","bETH-mETH Pair","Terraswap","https://whitelist.anchorprotocol.com/logo/bETH.png","Anchor,whitelist","terra1c5swgtnuunpf75klq5uztynurazuwqf0mmmcyy",
 "TERRASWAP_BETH-METH_LP","bETH-mETH LP","Terraswap","https://whitelist.anchorprotocol.com/logo/bETH.png","Anchor","terra1l8jgxd9uv430rdt2u58h4h7kdfxsle4w6w2ecq",
 "TERRASWAP_BLUNA-LUNA_LP","bLUNA-LUNA LP","Terraswap","https://whitelist.anchorprotocol.com/logo/ANC.png","Anchor","terra1nuy34nwnsh53ygpc4xprlj263cztw7vc99leh2","terra1tj4pavqjqjfm0wh73sh7yy9m4uq3m2cpmgva6n"
-"TERRASWAP_BLUNA-LUNA_PAIR","bLUNA-LUNA Pair","Terraswap","https://whitelist.anchorprotocol.com/logo/ANC.png","Anchor","terra1jxazgm67et0ce260kvrpfv50acuushpjsz2y0p",
-"TERRASWAP_SPEC-UST_PAIR","SPEC-UST Pair","Terraswap","https://finder.extraterrestrial.money/images/SPEC100.png","Spectrum","terra1tn8ejzw8kpuc87nu42f6qeyen4c7qy35tl8t20","terra15cjce08zcmempedxwtce2y44y2ayup8gww3txr"
+"TERRASWAP_BLUNA-LUNA_PAIR","bLUNA-LUNA Pair","Terraswap","https://whitelist.anchorprotocol.com/logo/ANC.png","Anchor,whitelist","terra1jxazgm67et0ce260kvrpfv50acuushpjsz2y0p",
+"TERRASWAP_SPEC-UST_PAIR","SPEC-UST Pair","Terraswap","https://finder.extraterrestrial.money/images/SPEC100.png","Spectrum,whitelist","terra1tn8ejzw8kpuc87nu42f6qeyen4c7qy35tl8t20","terra15cjce08zcmempedxwtce2y44y2ayup8gww3txr"
 "TERRASWAP_SPEC-UST_LP","SPEC-UST LP","Terraswap","https://finder.extraterrestrial.money/images/SPEC100.png","Spectrum","terra1y9kxxm97vu4ex3uy0rgdr5h2vt7aze5sqx7jyl","terra1ntt4mdhr9lukayenntgltqppw4yy6hts7wr67d"
-"TERRASWAP_TWD-UST_PAIR","TWD-UST Pair","Terraswap","https://finder.extraterrestrial.money/images/TWD100.png","Terraworld","terra1etdkg9p0fkl8zal6ecp98kypd32q8k3ryced9d","terra1nw52fgdnwaz6z3u3sq6ppwfch6xemv4adj4lae"
+"TERRASWAP_TWD-UST_PAIR","TWD-UST Pair","Terraswap","https://finder.extraterrestrial.money/images/TWD100.png","Terraworld,whitelist","terra1etdkg9p0fkl8zal6ecp98kypd32q8k3ryced9d","terra1nw52fgdnwaz6z3u3sq6ppwfch6xemv4adj4lae"
 "TERRASWAP_TWD-UST_LP","TWD-UST LP","Terraswap","https://finder.extraterrestrial.money/images/TWD100.png","Terraworld","terra1c9wr85y8p8989tr58flz5gjkqp8q2r6murwpm9","terra13nk8c294r8ssqpvfdhhastpgu9a3ly2stypn9a"
 "ANCHOR_BLUNA_HUB","bLuna Hub","Anchor","https://whitelist.anchorprotocol.com/logo/bLUNA.png","Anchor","terra1mtwph2juhj0rvjz7dy92gvl6xvukaxu8rfv8ts","terra1fflas6wv4snv8lsda9knvq2w0cyt493r8puh2e"
 "ANCHOR_BLUNA_REWARD","bLuna Reward","Anchor","https://whitelist.anchorprotocol.com/logo/bLUNA.png","Anchor","terra17yap3mhph35pcwvhza38c2lkj7gzywzy05h7l0","terra1ac24j6pdxh53czqyrkr6ygphdeftg7u3958tl2"
@@ -231,7 +231,7 @@
 "ANCHOR_ANC_TOKEN","ANC Token","Anchor","https://whitelist.anchorprotocol.com/logo/ANC.png","Anchor","terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76","terra1747mad58h0w4y589y3sk84r5efqdev9q4r02pc"
 "PYLON_MINE_TOKEN","Mine Token","Pylon","https://assets.pylon.rocks/logo/MINE.png","Pylon","terra1kcthelkax4j9x8d3ny6sdag0qmxxynl3qtcrpy","terra1lqm5tutr5xcw9d5vc4457exa3ghd4sr9mzwdex"
 "MIAW_MIAW_TOKEN","Miaw Token","Miaw Trader",,"Miaw","terra1vtr50tw0pgqpes34zqu60n554p9x4950wk8f63",
-"TERRASWAP_MIAW-UST_PAIR","MIAW-UST Pair","Terraswap",,"Miaw","terra12mzh5cp6tgc65t2cqku5zvkjj8xjtuv5v9whyd",
+"TERRASWAP_MIAW-UST_PAIR","MIAW-UST Pair","Terraswap",,"Miaw,whitelist","terra12mzh5cp6tgc65t2cqku5zvkjj8xjtuv5v9whyd",
 "TERRASWAP_MIAW-UST_LP","MIAW-UST LP","Terraswap",,"Miaw","terra1hvz34zmk4h6k896t94vd8d5qjdchhnkdndunzx",
 "SPACELOOT_MINTER","Spaceloot Minter","Spaceloot","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/SPACELOOT.png","Spaceloot","terra1ec833xj9f8dm0c04cdka9fkyefzgll7pdzzyxq",
 "SPACELOOT_TLOOT_TOKEN","Terra Loot Token","Spaceloot","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/SPACELOOT.png","Spaceloot","terra13qrc9j00lk3x0rvpptzdmwtckfj64d5g6xnrv9",
@@ -242,7 +242,7 @@
 "GALACTIC_PUNKS","Galactic Punks","GalacticPunks","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/GP.png","GP,NFT","terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k",
 "TFLOKI_TFLOKI_TOKEN","TFLOKI Token","TFLOKI","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TFLOKI.png","TFLOKI","terra1u2k0nkenw0p25ljsr4ksh7rxm65y466vkdewwj",
 "TFLOKI_NFT_TICKET_D1","TFLOKI NFT Ticket D1","TFLOKI","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TFLOKI.png","TFLOKI,NFT","terra1a8k3jyv3wf6k3zngza5h6srrxcckdf7zv90p6u",
-"TERRASWAP_TFLOKI-UST_PAIR","TFLOKI-UST PAIR","Terraswap","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TFLOKI.png","TFLOKI,Terraswap","terra1yjmpu9c3dzknf8axtp6k74nvkwrd457u7p2sdr",
+"TERRASWAP_TFLOKI-UST_PAIR","TFLOKI-UST PAIR","Terraswap","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TFLOKI.png","TFLOKI,Terraswap,whitelist","terra1yjmpu9c3dzknf8axtp6k74nvkwrd457u7p2sdr",
 "NEXUS_BASSET_VAULT_BLUNA","Nexus Vault bLuna","Nexus","https://terra.nexusprotocol.app/assets/psi.png","Nexus,bLuna","terra1cda4adzngjzcn8quvfu2229s8tedl5t306352x",
 "NEXUS_BASSET_VAULT_STRATEGY_BLUNA","Nexus Vault Strategy bLuna","Nexus","https://terra.nexusprotocol.app/assets/psi.png","Nexus,bLuna","terra1fxc9epfhest8sndrayfkxc9y6arva4sqtp7drg",
 "NEXUS_BASSET_VAULT_BETH","Nexus Vault bETH","Nexus","https://terra.nexusprotocol.app/assets/psi.png","Nexus,bETH","terra1tfrecwlvzcv9h697q3g0d08vd53ssu5w4war4n",
@@ -252,11 +252,11 @@
 "NEXUS_NLUNA_TOKEN_CONFIG_HOLDER","nLuna Token Config Holder","Nexus","https://terra.nexusprotocol.app/nLuna.svg","Nexus,nLuna","terra1rsupnpjmnjj93a8s7twgmutvknuvzvktcd32n0",
 "NEXUS_NETH_TOKEN","nETH Token","Nexus","https://terra.nexusprotocol.app/nEth.svg","Nexus,nETH","terra178v546c407pdnx5rer3hu8s2c0fc924k74ymnn",
 "NEXUS_NETH_TOKEN_CONFIG_HOLDER","nETH Token Config Holder","Nexus","https://terra.nexusprotocol.app/nEth.svg","Nexus,nETH","terra1v58xln8ry8lx4pdt2lzpw57grksewtgqehuvah",
-"TERRASWAP_PSI-UST_PAIR","PSI-UST PAIR","Terraswap","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi,Terraswap","terra163pkeeuwxzr0yhndf8xd2jprm9hrtk59xf7nqf",
+"TERRASWAP_PSI-UST_PAIR","PSI-UST PAIR","Terraswap","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi,Terraswap,whitelist","terra163pkeeuwxzr0yhndf8xd2jprm9hrtk59xf7nqf",
 "TERRASWAP_PSI-UST_LP","PSI-UST LP","Terraswap","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi,Terraswap","terra1q6r8hfdl203htfvpsmyh8x689lp2g0m7856fwd",
-"TERRASWAP_PSI-NLUNA_PAIR","PSI-nLuna PAIR","Terraswap","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi,Terraswap","terra1zvn8z6y8u2ndwvsjhtpsjsghk6pa6ugwzxp6vx",
+"TERRASWAP_PSI-NLUNA_PAIR","PSI-nLuna PAIR","Terraswap","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi,Terraswap,whitelist","terra1zvn8z6y8u2ndwvsjhtpsjsghk6pa6ugwzxp6vx",
 "TERRASWAP_PSI-NLUNA_LP","PSI-nLuna LP","Terraswap","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi,Terraswap","terra1tuw46dwfvahpcwf3ulempzsn9a0vhazut87zec",
-"TERRASWAP_PSI-NETH_PAIR","PSI-nETH PAIR","Terraswap","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi,Terraswap","terra14zhkur7l7ut7tx6kvj28fp5q982lrqns59mnp3",
+"TERRASWAP_PSI-NETH_PAIR","PSI-nETH PAIR","Terraswap","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi,Terraswap,whitelist","terra14zhkur7l7ut7tx6kvj28fp5q982lrqns59mnp3",
 "TERRASWAP_PSI-NETH_LP","PSI-nETH LP","Terraswap","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi,Terraswap","terra1y8kxhfg22px5er32ctsgjvayaj8q36tr590qtp",
 "NEXUS_GOVERNANCE","Nexus Governance","Nexus","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi","terra1xrk6v2tfjrhjz2dsfecj40ps7ayanjx970gy0j",
 "NEXUS_VESTING","Nexus Vesting (Investment & Team)","Nexus","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi","terra15jggavtx37dsmfjy6sed7nnyccw2v5298xlt5g",
@@ -265,7 +265,7 @@
 "NEXUS_AIRDROP","Nexus Airdrop","Nexus","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi","terra1992lljnteewpz0g398geufylawcmmvgh8l8v96",
 "NEXUS_PSI-UST_STAKING","Nexus PSI-UST LP Staking","Nexus","https://terra.nexusprotocol.app/assets/psi.png","Nexus,Psi","terra12kzewegufqprmzl20nhsuwjjq6xu8t8ppzt30a",
 "DIGIPHARM_DPH_TOKEN","DPH Token","Digipharm","https://digipharm.io/wp-content/uploads/2021/02/digipharm_etherscan_logo.png","Digipharm,DPH","terra17jnhankdfl8vyzj6vejt7ag8uz0cjc9crkl2h7",
-"TERRASWAP_DPH-UST_PAIR","DPH-UST PAIR","Terraswap","https://digipharm.io/wp-content/uploads/2021/02/digipharm_etherscan_logo.png","Digipharm,DPH,Terraswap","terra1zz39wfyyqt4tjz7dz6p7s9c8pwmcw2xzde3xl8",
+"TERRASWAP_DPH-UST_PAIR","DPH-UST PAIR","Terraswap","https://digipharm.io/wp-content/uploads/2021/02/digipharm_etherscan_logo.png","Digipharm,DPH,Terraswap,whitelist","terra1zz39wfyyqt4tjz7dz6p7s9c8pwmcw2xzde3xl8",
 "TERRAWHALES","TerraWhales","TerraWhales","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/terrawhales.png","TERRAWHALES,NFT","terra1m6y63u3g6m7nw76pxpy5tuyllq854nmtn7986r",
 "VALKYRIE_VKR_TOKEN","Valkyrie Token","Valkyrie","https://app.valkyrieprotocol.com/icon_vkr.png","Valkyrie","terra1dy9kmlm4anr92e42mrkjwzyvfqwz66un00rwr5",
 "VALKYRIE_GOVERNANCE","Valkyrie Governance","Valkyrie","https://app.valkyrieprotocol.com/icon_vkr.png","Valkyrie","terra1w6xf64nlmy3fevmmypx6w2fa34ue74hlye3chk",
@@ -276,37 +276,37 @@
 "VALKYRIE_CAMPAIGN_1","Valkyrie Campaign Launch Event","Valkyrie","https://app.valkyrieprotocol.com/icon_vkr.png","Valkyrie","terra10ng0k6wp40tpxlsyxczqgqr0uqsytzqyh702tj",
 "VALKYRIE_CAMPAIGN_1_QUALIFIER","Valkyrie Campaign Launch Event Qualifier","Valkyrie","https://app.valkyrieprotocol.com/icon_vkr.png","Valkyrie","terra1dweqcvpcdx67n7ef78ghc4equd8kteyqxsr29x",
 "VALKYRIE_CAMPAIGN_2","Valkyrie Campaign Pylon Share","Valkyrie","https://app.valkyrieprotocol.com/icon_vkr.png","Valkyrie,Pylon","terra17rssw4vgp42y75s2nvde7dm9hkzmj27wvs84et",
-"TERRASWAP_VKR-UST_PAIR","VKR-UST Pair","Terraswap","https://app.valkyrieprotocol.com/icon_vkr.png","Valkyrie,Terraswap","terra1e59utusv5rspqsu8t37h5w887d9rdykljedxw0",
+"TERRASWAP_VKR-UST_PAIR","VKR-UST Pair","Terraswap","https://app.valkyrieprotocol.com/icon_vkr.png","Valkyrie,Terraswap,whitelist","terra1e59utusv5rspqsu8t37h5w887d9rdykljedxw0",
 "TERRASWAP_VKR-UST_LP","VKR-UST LP","Terraswap","https://app.valkyrieprotocol.com/icon_vkr.png","Valkyrie,Terraswap","terra17fysmcl52xjrs8ldswhz7n6mt37r9cmpcguack",
 "TERRAPINS","Terrapins on Terra","Terrapins","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TERRAPINS.png","Terrapins,NFT","terra1f89xq3qhu98v4jch4y5xcrkhl9gytrne99x74t",
 "TERRAPINS_MINTER","Terrapins Minter","Terrapins","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TERRAPINS.png","Terrapins,NFT","terra1nj4x8m5vrl0wudgf45agy7kjxmta9cp83vj053",
 "RANDOMEARTH_SALE","RandomEarth Sale","RandomEarth","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/RANDOMEARTH.png","RandomEarth,NFT","terra1eek0ymmhyzja60830xhzm7k7jkrk99a60q2z2t",
 "WORMHOLE_WORMHOLE","Wormhole","Wormhole","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/WORMHOLE.png","Wormhole,Bridge,Cross-Chain","terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5",
 "WORMHOLE_PANCAKE_SWAP","whCake Token","Wormhole:PancakeSwap","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/WORMHOLE.png","Wormhole,PancakeSwap","terra1xvqlpjl2dxyel9qrp6qvtrg04xe3jh9cyxc6av",
-"ANGEL_PROTOCOL_REGISTRAR", "Angel Protocol Registrar", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1nwk2y5nfa5sxx6gtxr84lre3zpnn7cad2f266h",
-"ANGEL_PROTOCOL_INDEX_FUND", "Angel Protocol Index Fund", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra19cevhng6nunl7gmc90sph0syuqyvtqn7mlhwz0",
-"ANGEL_PROTOCOL_VAULT_ANCHOR", "Angel Protocol Vault - Anchor", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra172ue5d0zm7jlsj2d9af4vdff6wua7mnv6dq5vp",
-"ANGEL_PROTOCOL_TEAM_GROUP", "Angel Protocol Team Group", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1qzdgs73h3rnh9j7f4t6tyuw9lmrp5esn6yunyl",
-"ANGEL_PROTOCOL_TEAM_MULTISIG", "Angel Protocol Team Multisig", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1m6rqwmxlpztjf3zfhza906d44c9rpf2t6vn37n",
-"ANGEL_PROTOCOL_ENDOWMENT_OWNERS_GROUP", "Angel Protocol Endowment Owners Group", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1lycc2zyhd676294c604euh8hxw7h6jrjd68x83",
-"ANGEL_PROTOCOL_GUARDIAN_ANGELS_MULTISIG", "Angel Protocol Guardian Angels Multisig", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1jd2n0ze7er80x9h8k3x006aypaxs7mvrggdmn9",
-"ANGEL_PROTOCOL_ENDOWMENT_1", "Better Me", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1zn8aqw3ypzvs8pzuadpqw5jw5rptxp4y08z7sr",
-"ANGEL_PROTOCOL_ENDOWMENT_2", "Yellow Boat of Hope Foundation", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1k6v33x6sc9chztxgyh859npz740gmn9d4rnfkz",
-"ANGEL_PROTOCOL_ENDOWMENT_3", "Technovation Rwanda", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1xmeept4tj37qqsajws8r6tl7f5hskvvfg2fmd5",
-"ANGEL_PROTOCOL_ENDOWMENT_4", "Blue Jay Animal Sancutary", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1c5luclcnzwhlf59c5w63yn034z6k9jrefx0swx",
-"ANGEL_PROTOCOL_ENDOWMENT_5", "The Turing Trust", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1ngnqymglanujrhs09qakyz84k4v6cw9yyjwp0t",
-"ANGEL_PROTOCOL_ENDOWMENT_6", "Pro2Tect", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra18y4lflmg0wnlkw4hvamp4l2hjv2cafy7dtcyn6",
-"ANGEL_PROTOCOL_ENDOWMENT_7", "Refugee Girls Need You", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1xmkprc4p2wxjh9eh58rjf3ndllepnl7xezmuk4",
-"ANGEL_PROTOCOL_ENDOWMENT_8", "Teachers Like Me", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1u0dls462h33j3fgg4j98wpa5qculnq2u749qc5",
-"ANGEL_PROTOCOL_ENDOWMENT_9", "Animal Ethics", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1tkadaa8phaqnne20rzluhv8p57h23ku4n337ye",
-"ANGEL_PROTOCOL_ENDOWMENT_10", "Territorio de Zaguates", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1lalzy8rvkg3j2qm4a2x74lm6lxfa3llz7kdkdp",
-"ANGEL_PROTOCOL_ENDOWMENT_11", "Lion's Club Manitowish Waters, WI", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1vqe93uv8lylkw4fc8m0xr89fv5xean29ftr0q2",
-"ANGEL_PROTOCOL_ENDOWMENT_12", "Global Brigades", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra12crxq8nxml96e9h38fe67c4p76pc24l54zjzzh",
-"ANGEL_PROTOCOL_ENDOWMENT_13", "SEED", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1gm0x3m87e7wqzkac5eeacxkesy470yavpwqgdm",
-"ANGEL_PROTOCOL_ENDOWMENT_14", "Npili Geral", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1qagm9wdnp6f76xy52llcjxmr4z8j4nhd9ethw8",
-"ANGEL_PROTOCOL_ENDOWMENT_15", "DeFi Ripple Effects (DRE)", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1kdd6f099dv4kr5xqp7sxcc7epledxmvyq8xnu3",
-"ANGEL_PROTOCOL_ENDOWMENT_16", "New Life Ministries", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1d5phnyr7e7l44yaathtwrh4f4mv5agajcy508f",
-"ANGEL_PROTOCOL_ENDOWMENT_17", "Warrior GMR Foundation", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra16qh68y6gydhz73ndxgkzwmfcfam6jt45g8jhml",
-"ANGEL_PROTOCOL_ENDOWMENT_18", "ROLDA", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra13nm3vyj6zfg2tdzsgq97ky6d6gtuty9mu025z3",
-"ANGEL_PROTOCOL_ENDOWMENT_19", "Solar Electric Light Fund", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1uwtk2hs65332emnjn8n9s8d3l692pgyqnew4dq",
-"ANGEL_PROTOCOL_ENDOWMENT_20", "Boston Scores", "Angel Protocol", "https://angelprotocol.io/favicon.png", "Angel Protocol", "terra1cmp87658s0c475dkyee2p8r9zsdjd628py4zav",
+"ANGEL_PROTOCOL_REGISTRAR","Angel Protocol Registrar","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1nwk2y5nfa5sxx6gtxr84lre3zpnn7cad2f266h",
+"ANGEL_PROTOCOL_INDEX_FUND","Angel Protocol Index Fund","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra19cevhng6nunl7gmc90sph0syuqyvtqn7mlhwz0",
+"ANGEL_PROTOCOL_VAULT_ANCHOR","Angel Protocol Vault - Anchor","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra172ue5d0zm7jlsj2d9af4vdff6wua7mnv6dq5vp",
+"ANGEL_PROTOCOL_TEAM_GROUP","Angel Protocol Team Group","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1qzdgs73h3rnh9j7f4t6tyuw9lmrp5esn6yunyl",
+"ANGEL_PROTOCOL_TEAM_MULTISIG","Angel Protocol Team Multisig","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1m6rqwmxlpztjf3zfhza906d44c9rpf2t6vn37n",
+"ANGEL_PROTOCOL_ENDOWMENT_OWNERS_GROUP","Angel Protocol Endowment Owners Group","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1lycc2zyhd676294c604euh8hxw7h6jrjd68x83",
+"ANGEL_PROTOCOL_GUARDIAN_ANGELS_MULTISIG","Angel Protocol Guardian Angels Multisig","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1jd2n0ze7er80x9h8k3x006aypaxs7mvrggdmn9",
+"ANGEL_PROTOCOL_ENDOWMENT_1","Better Me","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1zn8aqw3ypzvs8pzuadpqw5jw5rptxp4y08z7sr",
+"ANGEL_PROTOCOL_ENDOWMENT_2","Yellow Boat of Hope Foundation","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1k6v33x6sc9chztxgyh859npz740gmn9d4rnfkz",
+"ANGEL_PROTOCOL_ENDOWMENT_3","Technovation Rwanda","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1xmeept4tj37qqsajws8r6tl7f5hskvvfg2fmd5",
+"ANGEL_PROTOCOL_ENDOWMENT_4","Blue Jay Animal Sancutary","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1c5luclcnzwhlf59c5w63yn034z6k9jrefx0swx",
+"ANGEL_PROTOCOL_ENDOWMENT_5","The Turing Trust","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1ngnqymglanujrhs09qakyz84k4v6cw9yyjwp0t",
+"ANGEL_PROTOCOL_ENDOWMENT_6","Pro2Tect","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra18y4lflmg0wnlkw4hvamp4l2hjv2cafy7dtcyn6",
+"ANGEL_PROTOCOL_ENDOWMENT_7","Refugee Girls Need You","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1xmkprc4p2wxjh9eh58rjf3ndllepnl7xezmuk4",
+"ANGEL_PROTOCOL_ENDOWMENT_8","Teachers Like Me","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1u0dls462h33j3fgg4j98wpa5qculnq2u749qc5",
+"ANGEL_PROTOCOL_ENDOWMENT_9","Animal Ethics","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1tkadaa8phaqnne20rzluhv8p57h23ku4n337ye",
+"ANGEL_PROTOCOL_ENDOWMENT_10","Territorio de Zaguates","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1lalzy8rvkg3j2qm4a2x74lm6lxfa3llz7kdkdp",
+"ANGEL_PROTOCOL_ENDOWMENT_11","Lion's Club Manitowish Waters, WI","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1vqe93uv8lylkw4fc8m0xr89fv5xean29ftr0q2",
+"ANGEL_PROTOCOL_ENDOWMENT_12","Global Brigades","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra12crxq8nxml96e9h38fe67c4p76pc24l54zjzzh",
+"ANGEL_PROTOCOL_ENDOWMENT_13","SEED","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1gm0x3m87e7wqzkac5eeacxkesy470yavpwqgdm",
+"ANGEL_PROTOCOL_ENDOWMENT_14","Npili Geral","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1qagm9wdnp6f76xy52llcjxmr4z8j4nhd9ethw8",
+"ANGEL_PROTOCOL_ENDOWMENT_15","DeFi Ripple Effects (DRE)","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1kdd6f099dv4kr5xqp7sxcc7epledxmvyq8xnu3",
+"ANGEL_PROTOCOL_ENDOWMENT_16","New Life Ministries","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1d5phnyr7e7l44yaathtwrh4f4mv5agajcy508f",
+"ANGEL_PROTOCOL_ENDOWMENT_17","Warrior GMR Foundation","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra16qh68y6gydhz73ndxgkzwmfcfam6jt45g8jhml",
+"ANGEL_PROTOCOL_ENDOWMENT_18","ROLDA","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra13nm3vyj6zfg2tdzsgq97ky6d6gtuty9mu025z3",
+"ANGEL_PROTOCOL_ENDOWMENT_19","Solar Electric Light Fund","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1uwtk2hs65332emnjn8n9s8d3l692pgyqnew4dq",
+"ANGEL_PROTOCOL_ENDOWMENT_20","Boston Scores","Angel Protocol","https://angelprotocol.io/favicon.png","Angel Protocol","terra1cmp87658s0c475dkyee2p8r9zsdjd628py4zav",
