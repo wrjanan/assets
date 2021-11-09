@@ -1270,6 +1270,54 @@
         "Miaw"
       ]
     },
+    "terra175ueft8w9vpkj9jvehyjhkpk6szy8unq4lns8n": {
+      "protocol": "TerraLand",
+      "name": "TLAND LP Staking",
+      "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png",
+      "id": "TERRALAND_TLAND_LP_STAKING"
+    },
+    "terra1q7pe32j3mwajxd259v94e8vfu6fh4gn0dea06s": {
+      "protocol": "TerraLand",
+      "name": "TLAND Airdrop",
+      "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png",
+      "id": "TERRALAND_TLAND_AIRDROP"
+    },
+    "terra1y35lez2p78yxftv8lmx9m2w8tcl5e3cvy2gq3c": {
+      "protocol": "TerraLand",
+      "name": "TLAND Development Fund Vesting",
+      "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png",
+      "id": "TERRALAND_TLAND_DEVELOPMENT_FUND_VESTING"
+    },
+    "terra17csa0tla7x333a7llc7tzvnayxj08rfweawaal": {
+      "protocol": "TerraLand",
+      "name": "TLAND Private Sale & Marketing Vesting",
+      "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png",
+      "id": "TERRALAND_TLAND_PRIVATE_SALE_&_MARKETING_VESTING"
+    },
+    "terra1lk0cddmxg6k2hu78mnlpme9jn7dvcdmp9nwczc": {
+      "protocol": "TerraLand",
+      "name": "TLAND Team Vesting",
+      "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png",
+      "id": "TERRALAND_TLAND_TEAM_VESTING"
+    },
+    "terra16g9dyhh3dm9pcpeutkwmqdn4rlv0d3mn4w7ftm": {
+      "protocol": "TerraLand",
+      "name": "TLAND Advisors Vesting",
+      "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png",
+      "id": "TERRALAND_TLAND_ADVISORS_VESTING"
+    },
+    "terra1lep7qhcguhsrnd62x90ktv0mu5qvysvfq3ux05": {
+      "protocol": "TerraLand",
+      "name": "TLAND Subme Public Sale Vesting",
+      "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png",
+      "id": "TERRALAND_TLAND_SUBME_PUBLIC_SALE_VESTING"
+    },
+    "terra12s5lushadreckk2px7lwga2a55ws2pg7ffvk3x": {
+      "protocol": "TerraLand",
+      "name": "TLAND Starterra Public Sale Vesting",
+      "icon": "https://terralandio-site.s3.eu-central-1.amazonaws.com/TerraLand-logo-v1c-4x.png",
+      "id": "TERRALAND_TLAND_STARTERRA_PUBLIC_SALE_VESTING"
+    },
     "terra1vs9jr7pxuqwct3j29lez3pfetuu8xmq7tk3lzk": {
       "id": "TERRASWAP_ASSET_LIMIT_ORDER",
       "name": "Assert Limit Order",
@@ -4042,6 +4090,18 @@
       "tags": [
         "Terraworld"
       ]
+    },
+    "terra183cvzy6knvva6mpvzcq86uyfxw0nd4925m0d0m": {
+      "protocol": "White Whale",
+      "name": "WHALE",
+      "icon": "https://avatars.githubusercontent.com/u/86790335?s=100&v=4.png",
+      "id": "WHITE_WHALE_WHALE"
+    },
+    "terra1zuspxvj76ngktnjuawmckpsmynwuvusdnq0pxd": {
+      "protocol": "White Whale",
+      "name": "WHALE-UST LP Token",
+      "icon": "https://avatars.githubusercontent.com/u/86790335?s=100&v=4.png",
+      "id": "WHITE_WHALE_WHALE-UST_LP_TOKEN"
     },
     "terra1n2xmlwqpp942nfqq2muxn0u0mqk3sylekdpqfv": {
       "id": "TERRASWAP_MINE-UST_PAIR",
