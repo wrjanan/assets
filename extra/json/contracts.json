@@ -2975,6 +2975,46 @@
       "tags": [
         "Angel Protocol"
       ]
+    },
+    "terra1jfk9saed6c4n40qwe54mcxmgs8kz4husly3jx4": {
+      "id": "TNS_CONTROLLER",
+      "name": "Terra Name Service Controller",
+      "protocol": "Terra Name Service",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TNS.png",
+      "tags": [
+        "Terra Name Service",
+        " TNS"
+      ]
+    },
+    "terra1fsfnnv08cgwcyfyh3p89rf44tfy4tlgnsapyda": {
+      "id": "TNS_UST_REGISTRAR",
+      "name": "Terra Name Service UST Registrar",
+      "protocol": "Terra Name Service",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TNS.png",
+      "tags": [
+        "Terra Name Service",
+        " TNS"
+      ]
+    },
+    "terra19gqw63xnt9237d2s8cdrzstn98g98y7hkl80gs": {
+      "id": "TNS_UST_REGISTRY",
+      "name": "Terra Name Service Registry",
+      "protocol": "Terra Name Service",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TNS.png",
+      "tags": [
+        "Terra Name Service",
+        " TNS"
+      ]
+    },
+    "terra1uhr0lncf04nhwn5p2uaellepery0lgphl09ut8": {
+      "id": "TNS_DEFAULT_RESOLVER",
+      "name": "Terra Name Service Default Resolver",
+      "protocol": "Terra Name Service",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TNS.png",
+      "tags": [
+        "Terra Name Service",
+        " TNS"
+      ]
     }
   },
   "testnet": {
