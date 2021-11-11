@@ -2547,6 +2547,26 @@
         "Psi"
       ]
     },
+    "terra1hs4ev0ghwn4wr888jwm56eztfpau6rjcd8mczc": {
+      "id": "NEXUS_PSI-NLUNA_STAKING",
+      "name": "Nexus PSI-nLuna LP Staking",
+      "protocol": "Nexus",
+      "icon": "https://terra.nexusprotocol.app/assets/psi.png",
+      "tags": [
+        "Nexus",
+        "Psi"
+      ]
+    },
+    "terra1lws09x0slx892ux526d6atwwgdxnjg58uan8ph": {
+      "id": "NEXUS_PSI-NETH_STAKING",
+      "name": "Nexus PSI-NETH LP Staking",
+      "protocol": "Nexus",
+      "icon": "https://terra.nexusprotocol.app/assets/psi.png",
+      "tags": [
+        "Nexus",
+        "Psi"
+      ]
+    },
     "terra17jnhankdfl8vyzj6vejt7ag8uz0cjc9crkl2h7": {
       "id": "DIGIPHARM_DPH_TOKEN",
       "name": "DPH Token",
