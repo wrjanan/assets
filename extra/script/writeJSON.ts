@@ -23,6 +23,9 @@ function deriveID(entry: Entry): string {
     .replace(/[\\\/]/g, '-');
 }
 
+function cleanTags(t) {
+  return t.trim();
+}
 
 try {
   // Read in the original data
@@ -77,6 +80,11 @@ try {
       let entry = data[address];
       if (address && !ONLY_SPACE.test(address) ) {
         data[address] = mergeData(entry, _.pick(row, headers));
+        // Process tags to strip any spaces
+        const tags = data[address].tags;
+        if (tags !== undefined) {
+          data[address].tags = tags.map(cleanTags);
+        }
       }
     });
   };
