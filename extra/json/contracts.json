@@ -3041,6 +3041,26 @@
         "Terra Name Service",
         "TNS"
       ]
+    },
+    "terra1z6tp0ruxvynsx5r9mmcc2wcezz9ey9pmrw5r8g": {
+      "id": "TERRASWAP_ORION-UST_PAIR",
+      "name": "ORION-UST PAIR",
+      "protocol": "Terraswap",
+      "icon": "https://orion.money/assets/ORION-LOGO-2.1-GREEN@256x256.png",
+      "tags": [
+        "Orion",
+        "Terraswap",
+        "whitelist"
+      ]
+    },
+    "terra1mddcdx0ujx89f38gu7zspk2r2ffdl5enyz2u03": {
+      "id": "ORION_ORION_TOKEN",
+      "name": "Orion Token",
+      "protocol": "Orion",
+      "icon": "https://orion.money/assets/ORION-LOGO-2.1-GREEN@256x256.png",
+      "tags": [
+        "Orion"
+      ]
     }
   },
   "testnet": {
