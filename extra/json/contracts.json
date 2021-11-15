@@ -1544,6 +1544,16 @@
         "Pylon"
       ]
     },
+    "terra1f9qmvzl98xvhn444jd5cqawg7pfjt3hu6v259v": {
+      "id": "PYLON_LAUNCHPAD_LOCKUP_A_VALKYRIE",
+      "name": "Launchpad - Lockup A / Valkyrie Deposit",
+      "protocol": "Pylon",
+      "icon": "https://assets.pylon.rocks/logo/MINE.png",
+      "tags": [
+        "Pylon",
+        "Valkyrie"
+      ]
+    },
     "terra1t3wtg074jjscqc5k2hn6l4lsremccm25tt77zp": {
       "id": "PYLON_LAUNCHPAD_LOCKUP_B",
       "name": "Launchpad - Lockup B",
@@ -2677,7 +2687,7 @@
         "Valkyrie"
       ]
     },
-    "terra17rssw4vgp42y75s2nvde7dm9hkzmj27wvs84et": {
+    "terra13swrxgswau5mxvkl0jvqf9lcles2z39g5zqlgy": {
       "id": "VALKYRIE_CAMPAIGN_2",
       "name": "Valkyrie Campaign Pylon Share",
       "protocol": "Valkyrie",

@@ -132,6 +132,7 @@
 "PYLON_LAUNCHPAD_SWAP_VALKYRIE","Launchpad - Swap $VKR","Pylon","https://app.valkyrieprotocol.com/icon_vkr.png","Pylon,Valkyrie","terra1dhrc7y9n8yvjvp5cp7caftqv5jxe0vqykldeq9",
 "PYLON_LAUNCHPAD_SWAP_VALKYRIE_CAP_STRATEGY","Pylon Swap $VKR Cap Strategy","Pylon","https://app.valkyrieprotocol.com/icon_vkr.png","Pylon,Valkyrie","terra17n30u4zkench422gt3njzewd27y7xfmpt9lxz2",
 "PYLON_LAUNCHPAD_LOCKUP_A","Launchpad - Lockup A","Pylon","https://assets.pylon.rocks/logo/MINE.png","Pylon","terra19vnwdqz4um0z8f69pc8y0z4ncrcxm4cjf3gevz",
+"PYLON_LAUNCHPAD_LOCKUP_A_VALKYRIE","Launchpad - Lockup A / Valkyrie Deposit","Pylon","https://assets.pylon.rocks/logo/MINE.png","Pylon,Valkyrie","terra1f9qmvzl98xvhn444jd5cqawg7pfjt3hu6v259v",
 "PYLON_LAUNCHPAD_LOCKUP_B","Launchpad - Lockup B","Pylon","https://assets.pylon.rocks/logo/MINE.png","Pylon","terra1t3wtg074jjscqc5k2hn6l4lsremccm25tt77zp",
 "PYLON_LAUNCHPAD_LOCKUP_C","Launchpad - Lockup C","Pylon","https://assets.pylon.rocks/logo/MINE.png","Pylon","terra1za627n8zc8wqg06n9h7khpmjcnlkdkt38rkl3u",
 "PYLON_TOKEN_AIRDROP","Token Airdrop","Pylon","https://assets.pylon.rocks/logo/MINE.png","Pylon","terra1ud39n6c42hmtp2z0qmy8svsk7z3zmdkxzfwcf2","terra1ujnu34ruqvskn65dlmkaamy7l69nstf7q9z3z5"
@@ -278,7 +279,7 @@
 "VALKYRIE_CAMPAIGN_FACTORY","Valkyrie Campaign Factory","Valkyrie","https://app.valkyrieprotocol.com/icon_vkr.png","Valkyrie","terra18s9khg4ugpv4hyy0ed7jxc6lmq5pcyyh9djakz",
 "VALKYRIE_CAMPAIGN_1","Valkyrie Campaign Launch Event","Valkyrie","https://app.valkyrieprotocol.com/icon_vkr.png","Valkyrie","terra10ng0k6wp40tpxlsyxczqgqr0uqsytzqyh702tj",
 "VALKYRIE_CAMPAIGN_1_QUALIFIER","Valkyrie Campaign Launch Event Qualifier","Valkyrie","https://app.valkyrieprotocol.com/icon_vkr.png","Valkyrie","terra1dweqcvpcdx67n7ef78ghc4equd8kteyqxsr29x",
-"VALKYRIE_CAMPAIGN_2","Valkyrie Campaign Pylon Share","Valkyrie","https://app.valkyrieprotocol.com/icon_vkr.png","Valkyrie,Pylon","terra17rssw4vgp42y75s2nvde7dm9hkzmj27wvs84et",
+"VALKYRIE_CAMPAIGN_2","Valkyrie Campaign Pylon Share","Valkyrie","https://app.valkyrieprotocol.com/icon_vkr.png","Valkyrie,Pylon","terra13swrxgswau5mxvkl0jvqf9lcles2z39g5zqlgy",
 "TERRASWAP_VKR-UST_PAIR","VKR-UST Pair","Terraswap","https://app.valkyrieprotocol.com/icon_vkr.png","Valkyrie,Terraswap,whitelist","terra1e59utusv5rspqsu8t37h5w887d9rdykljedxw0",
 "TERRASWAP_VKR-UST_LP","VKR-UST LP","Terraswap","https://app.valkyrieprotocol.com/icon_vkr.png","Valkyrie,Terraswap","terra17fysmcl52xjrs8ldswhz7n6mt37r9cmpcguack",
 "TERRAPINS","Terrapins on Terra","Terrapins","https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TERRAPINS.png","Terrapins,NFT","terra1f89xq3qhu98v4jch4y5xcrkhl9gytrne99x74t",
