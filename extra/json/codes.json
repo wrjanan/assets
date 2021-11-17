@@ -1,7 +1,7 @@
 {
     "mainnet": {
         "3": {
-            "name": "CW20 Token (Code 3)"
+            "name": "CW20 Token"
         },
         "4": {
             "name": "Terraswap Pair"
@@ -10,7 +10,13 @@
             "name": "Nexus Staking"
         },
         "986": {
-            "name": "Talis Minter"
+            "name": "Talis Factory"
+        },
+        "1084": {
+            "name": "Talis Factory"
+        },
+        "1099": {
+            "name": "NFT Collection"
         }
     },
     "testnet": {}
