@@ -11,7 +11,6 @@ const headers = config.headers;
 
 const ONLY_SPACE = new RegExp('^\\s*$');
 
-
 interface Entry {
   protocol: string;
   name: string;
@@ -49,7 +48,8 @@ try {
         if (config.arrayFields.includes(k)) {
           return v.split(',');
         } else {
-          return v;
+          // If decimals, return a number, otherwise value
+          return k === "decimals" ? +v : v;
         }
       })
       .value();
