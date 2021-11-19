@@ -3095,6 +3095,44 @@
       "tags": [
         "Orion"
       ]
+    },
+    "terra1zkyrfyq7x9v5vqnnrznn3kvj35az4f6jxftrl2": {
+      "id": "TERRASWAP_KUJI-UST_PAIR",
+      "name": "KUJI-UST PAIR",
+      "protocol": "Terraswap",
+      "icon": "https://assets.kujira.app/kuji.svg",
+      "tags": [
+        "Kujira",
+        "whitelist"
+      ]
+    },
+    "terra1xfsdgcemqwxp4hhnyk4rle6wr22sseq7j07dnn": {
+      "id": "KUJIRA_KUJI_TOKEN",
+      "name": "Kuji Token",
+      "protocol": "Kujira",
+      "icon": "https://assets.kujira.app/kuji.svg",
+      "tags": [
+        "Kujira"
+      ]
+    },
+    "terra1fmv3g96s4xc9nrnlkdn87vxyaydd22xsxzel5r": {
+      "id": "TERRASWAP_SDOLLAR-UST_PAIR",
+      "name": "SDOLLAR-UST PAIR",
+      "protocol": "Terraswap",
+      "icon": "https://spacedollars.money/wp-content/uploads/2021/10/spacedollars512x512.png",
+      "tags": [
+        "Spaceloot",
+        "whitelist"
+      ]
+    },
+    "terra1l0y8yg0s86x299nqw0p6fhh7ngex3r4phtjeuq": {
+      "id": "SPACELOOT_SDOLLAR_TOKEN",
+      "name": "Space Dollar Token",
+      "protocol": "Kujira",
+      "icon": "https://spacedollars.money/wp-content/uploads/2021/10/spacedollars512x512.png",
+      "tags": [
+        "Spaceloot"
+      ]
     }
   },
   "testnet": {
