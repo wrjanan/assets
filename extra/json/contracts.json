@@ -1915,6 +1915,15 @@
         "Apollo"
       ]
     },
+    "terra100yeqvww74h4yaejj6h733thgcafdaukjtw397": {
+      "id": "APOLLO_APOLLO_TOKEN",
+      "name": "Apollo Token",
+      "protocol": "Apollo",
+      "icon": "https://finder.extraterrestrial.money/images/APOLLO60.png",
+      "tags": [
+        "Apollo"
+      ]
+    },
     "terra1hy6cmqzke36dlxt0fst58ssd0mhk3xc793g3he": {
       "id": "APOLLO_APOLLO_ROUTER",
       "name": "Apollo Router",
@@ -2783,10 +2792,21 @@
         "Cross-Chain"
       ]
     },
+    "terra10nmmwe8r3g99a9newtqa7a75xfgs2e8z87r2sf": {
+      "id": "WORMHOLE_WRAPPED_REGISTRY",
+      "name": "Wormhole Wrapped Registry",
+      "protocol": "Wormhole",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/WORMHOLE.png",
+      "tags": [
+        "Wormhole",
+        "Bridge",
+        "Cross-Chain"
+      ]
+    },
     "terra1xvqlpjl2dxyel9qrp6qvtrg04xe3jh9cyxc6av": {
       "id": "WORMHOLE_PANCAKE_SWAP",
       "name": "whCake Token",
-      "protocol": "Wormhole:PancakeSwap",
+      "protocol": "Wormhole",
       "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/WORMHOLE.png",
       "tags": [
         "Wormhole",
