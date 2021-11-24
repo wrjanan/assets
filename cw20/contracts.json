@@ -400,10 +400,30 @@
       "name": "ANC-UST LP",
       "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
     },
+    "terra1k30c303e059kqhz705a77kgdhr2ndldfdxjvsr": {
+      "protocol": "Terraswap",
+      "name": "wsstSOL-UST Pair",
+      "icon": "https://static.lido.fi/stSOL/stSOL.png"
+    },
+    "terra17m0ujjyw0na6jmjspl7ykzzuu675c67rl7m9gl": {
+      "protocol": "Terraswap",
+      "name": "wsstSOL-UST LP",
+      "icon": "https://static.lido.fi/stSOL/stSOL.png"
+    },
     "terra1nuy34nwnsh53ygpc4xprlj263cztw7vc99leh2": {
       "protocol": "Terraswap",
       "name": "bLUNA-LUNA LP",
       "icon": "https://whitelist.anchorprotocol.com/logo/ANC.png"
+    },
+    "terra1mv3tksqwfextmnejw8s7ada9qu3pwav098qfxu": {
+      "protocol": "Terraswap",
+      "name": "wewstETH-UST Pair",
+      "icon": "https://static.lido.fi/wstETH/wstETH.png"
+    },
+    "terra1xgkkmc6luamzndndxtpg0520ajsnzzplcavq76": {
+      "protocol": "Terraswap",
+      "name": "wewstETH-UST LP",
+      "icon": "https://static.lido.fi/wstETH/wstETH.png"
     },
     "terra1mtwph2juhj0rvjz7dy92gvl6xvukaxu8rfv8ts": {
       "protocol": "Anchor",
@@ -894,6 +914,36 @@
       "protocol": "Nexus",
       "name": "nETH-Psi Staking",
       "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1zkyrfyq7x9v5vqnnrznn3kvj35az4f6jxftrl2": {
+      "protocol": "Kujira",
+      "name": "UST-KUJI Pair",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra1cmqv3sjew8kcm3j907x2026e4n0ejl2jackxlx": {
+      "protocol": "Kujira",
+      "name": "UST-KUJI LP",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra1cf9q9lq7tdfju95sdw78y9e34a6qrq3rrc6dre": {
+      "protocol": "Kujira",
+      "name": "UST-KUJI Staking",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra1ywfhcus65x80shdrh0ulr4m7na4njw59wrgu30": {
+      "protocol": "Kujira",
+      "name": "Operational, Treasury & Pre-Sale Vesting",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra1rhckhztwftc7a9u8gyasug0qwwwhzsxsnglm2e": {
+      "protocol": "StarTerra",
+      "name": "StarTerra KUJI IDO Vesting",
+      "icon": "https://assets.kujira.app/kuji-stt.png"
+    },
+    "terra15e4w665qtzdr7uvpu9catk6edsdr3yx73uprfr": {
+      "protocol": "Kujira",
+      "name": "Kujira Team Multisignature Warchest",
+      "icon": "https://assets.kujira.app/kuji.png"
     }
   },
   "testnet": {
@@ -1646,6 +1696,21 @@
       "protocol": "Nexus",
       "name": "nETH-Psi Staking",
       "icon": "https://terra.nexusprotocol.app/logos/nexus_protocol.png"
+    },
+    "terra1mxy8lmf2jeyr7js7xvm046fssyfa5a9pm78fpn": {
+      "protocol": "Kujira",
+      "name": "UST-KUJI Pair",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra18wn5m5rd4yd82kp9s07gwx9x0vn00wdj8dezv8": {
+      "protocol": "Kujira",
+      "name": "UST-KUJI LP",
+      "icon": "https://assets.kujira.app/kuji.png"
+    },
+    "terra16gd9lq7urpy8txfqd224lqfxwxs4fwr742yptu": {
+      "protocol": "Kujira",
+      "name": "UST-KUJI Staking",
+      "icon": "https://assets.kujira.app/kuji.png"
     }
   }
 }
