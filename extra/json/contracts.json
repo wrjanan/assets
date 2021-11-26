@@ -1988,6 +1988,26 @@
         "Apollo"
       ]
     },
+    "terra1xj2w7w8mx6m2nueczgsxy2gnmujwejjeu2xf78": {
+      "id": "TERRASWAP_APOLLO-UST_PAIR",
+      "name": "APOLLO-UST Pair",
+      "protocol": "Terraswap",
+      "icon": "https://finder.extraterrestrial.money/images/APOLLO60.png",
+      "tags": [
+        "Apollo",
+        "Terraswap",
+        "whitelist"
+      ]
+    },
+    "terra1sn807fkaddr6y6asl855rlrywygywlhs88r8ps": {
+      "id": "APOLLO_AIRDROP",
+      "name": "Apollo Airdrop",
+      "protocol": "Apollo",
+      "icon": "https://finder.extraterrestrial.money/images/APOLLO60.png",
+      "tags": [
+        "Apollo"
+      ]
+    },
     "terra1hy6cmqzke36dlxt0fst58ssd0mhk3xc793g3he": {
       "id": "APOLLO_APOLLO_ROUTER",
       "name": "Apollo Router",
