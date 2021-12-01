@@ -3227,6 +3227,117 @@
       "tags": [
         "Spaceloot"
       ]
+    },
+    "terra1flwpxxfl8ldxhdgzxkwet2r37c45hutapgjwkg": {
+      "id": "LUNART_GENESIS_COLLECTION",
+      "name": "LunArt - Genesis Collection (The Almond Breads)",
+      "protocol": "LunArt",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/LUNART.png",
+      "tags": [
+        "LunArt",
+        "NFT"
+      ]
+    },
+    "terra1w5l9ggryqy8q49pyfl9gqrfwdugynmd09xvwlk": {
+      "id": "ORION_STAKING",
+      "name": "Orion Instantiator",
+      "protocol": "Orion",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/ORION.png",
+      "tags": [
+        "Orion"
+      ]
+    },
+    "terra1he8j44cv2fcntujjnsqn3ummauua555agz4js0": {
+      "id": "PYLON_TERRAWORLD_ANCHORPOOL",
+      "name": "Terraworld AnchorPool",
+      "protocol": "Pylon",
+      "icon": "https://finder.extraterrestrial.money/images/PYL100.png",
+      "tags": [
+        "Pylon",
+        "Terraworld"
+      ]
+    },
+    "terra1r2vv8cyt0scyxymktyfuudqs3lgtypk72w6m3m": {
+      "id": "STADER_BLUE_CHIP",
+      "name": "Stader Blue Chip",
+      "protocol": "Stader",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/STADER.jpeg",
+      "tags": [
+        "Stader"
+      ]
+    },
+    "terra135mjmscm37mp5tu5ghp00lp374fsjaqksmjfh8": {
+      "id": "ORION_STAKING",
+      "name": "Orion Staking",
+      "protocol": "Orion",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/ORION.png",
+      "tags": [
+        "Orion"
+      ]
+    },
+    "terra16mlzdwqq5qs6a23250lq0fftke8v80sapc5kye": {
+      "id": "MIRROR_SHORT_REWARD",
+      "name": "Mirror Short Reward Contract",
+      "protocol": "Mirror",
+      "icon": "https://whitelist.mirror.finance/icon/MIR.png",
+      "tags": [
+        "Mirror"
+      ]
+    },
+    "terra1s9r689h3795v6wzjwul35q9zcfkf8m6k0a6ule": {
+      "id": "APOLLO_VESTING",
+      "name": "Apollo Vesting",
+      "protocol": "Apollo",
+      "icon": "https://finder.extraterrestrial.money/images/APOLLO60.png",
+      "tags": [
+        "Apollo"
+      ]
+    },
+    "terra140k6k2pmh2lmy4q4wyz5znqmtgwvs3gkgfeevq": {
+      "id": "TERRASHIBA_TSHIBA_TOKEN",
+      "name": "Terra Shiba Token",
+      "protocol": "TerraShiba",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TSHIBA.png",
+      "tags": [
+        "TSHIBA"
+      ]
+    },
+    "terra1stdzf28wlq7llzfecse366r657rtdh6wtrdfk2": {
+      "id": "TERRASWAP_TSHIBA-UST_PAIR",
+      "name": "Terraswap tSHIBA-UST Pair",
+      "protocol": "Terraswap",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/TSHIBA.png",
+      "tags": [
+        "TSHIBA"
+      ]
+    },
+    "terra1k9zwyjvhquklayg607ahex7egef7a3ujlhny99": {
+      "id": "STARTERRA_LOOP_IDO_ROUND_1",
+      "name": "Starterra Loop IDO Round 1",
+      "protocol": "StarTerra",
+      "icon": "https://starterra.io/assets/100x100_starterra.png",
+      "tags": [
+        "StarTerra",
+        "Loop"
+      ]
+    },
+    "terra1p70x7jkqhf37qa7qm4v23g4u4g8ka4ktxudxa7": {
+      "id": "LEVANA_METEOR_DUST",
+      "name": "Levana Meteor Dust",
+      "protocol": "Levana",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/LEVANA60.png",
+      "tags": [
+        "Levana"
+      ]
+    },
+    "terra1k0y373yxqne22pc9g7jvnr4qclpsxtafevtrpg": {
+      "id": "LEVANA_EGGS",
+      "name": "Levana Eggs",
+      "protocol": "Levana",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/LEVANA60.png",
+      "tags": [
+        "Levana"
+      ]
     }
   },
   "testnet": {
