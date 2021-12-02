@@ -1096,6 +1096,42 @@
         "Spectrum"
       ]
     },
+    "terra106en784zr4kpe6phlaj8c8t3aeqgn3xsugaelx": {
+      "protocol": "Spectrum",
+      "name": "Spec ORION Farm",
+      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
+      "id": "SPECTRUM_SPEC_ORION_FARM",
+      "tags": [
+        "Spectrum"
+      ]
+    },
+    "terra19kzel57gvx42e628k6frh624x5vm2kpck9cr9c": {
+      "protocol": "Spectrum",
+      "name": "Spec nLuna-Psi Farm",
+      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
+      "id": "SPECTRUM_SPEC_NLUNAPSI_FARM",
+      "tags": [
+        "Spectrum"
+      ]
+    },
+    "terra1lmm7xjareer3fd040kz2epw93hg20p9f64uh98": {
+      "protocol": "Spectrum",
+      "name": "Spec nEth-Psi Farm",
+      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
+      "id": "SPECTRUM_SPEC_NETHPSI_FARM",
+      "tags": [
+        "Spectrum"
+      ]
+    },
+    "terra15x4hysms59x5eek6esg3f2jycalpypdcl6sy7j": {
+      "protocol": "Spectrum",
+      "name": "Spec KUJI Farm",
+      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
+      "id": "SPECTRUM_SPEC_KUJI_FARM",
+      "tags": [
+        "Spectrum"
+      ]
+    },
     "terra1pyl3u0v0y7szlj8njctkhys9fvtsl6wva00fd5": {
       "protocol": "StarTerra",
       "name": "STT Staking Faction Lunatics",
@@ -1192,6 +1228,18 @@
         "StarTerra"
       ]
     },
+    "terra1ff6ynrnpszc5u6vulwn9gmntphywanpkak2qxc": {
+      "protocol": "StarTerra",
+      "name": "STT Vesting Advisors",
+      "icon": "https://starterra.io/assets/100x100_starterra.png",
+      "id": "STARTERRA_STT_VESTING_ADVISORS"
+    },
+    "terra1574seu2puu7xwgmv7q85f3umk6lvg3u2nv4zrj": {
+      "protocol": "StarTerra",
+      "name": "STT Vesting Team",
+      "icon": "https://starterra.io/assets/100x100_starterra.png",
+      "id": "STARTERRA_STT_VESTING_TEAM"
+    },
     "terra19pg6d7rrndg4z4t0jhcd7z9nhl3p5ygqttxjll": {
       "protocol": "Terraswap",
       "name": "STT-UST Pair",
@@ -1246,6 +1294,12 @@
       "name": "STT IDO Prefund",
       "icon": "https://starterra.io/assets/100x100_starterra.png",
       "id": "STARTERRA_STT_IDO_PREFUND"
+    },
+    "terra1megftnaw3v9jh9fg2wzejx6d2swncg7ug97tvt": {
+      "protocol": "StarTerra",
+      "name": "STT Governance",
+      "icon": "https://starterra.io/assets/100x100_starterra.png",
+      "id": "STARTERRA_STT_GOVERNANCE"
     },
     "terra1etdkg9p0fkl8zal6ecp98kypd32q8k3ryced9d": {
       "protocol": "Terraswap",
@@ -1345,7 +1399,7 @@
     "terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz": {
       "protocol": "White Whale",
       "name": "WHALE",
-      "icon": "https://avatars.githubusercontent.com/u/86790335?s=100&v=4.png",
+      "icon": "https://www.whitewhale.money/tokenlogo.png",
       "id": "WHITE_WHALE_WHALE"
     },
     "terra1xrk6v2tfjrhjz2dsfecj40ps7ayanjx970gy0j": {
@@ -1923,42 +1977,6 @@
       "icon": "https://assets.pylon.rocks/logo/MINE.png",
       "tags": [
         "Pylon"
-      ]
-    },
-    "terra106en784zr4kpe6phlaj8c8t3aeqgn3xsugaelx": {
-      "id": "SPECTRUM_SPEC_ORION_FARM",
-      "name": "Spec ORION Farm",
-      "protocol": "Spectrum",
-      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
-      "tags": [
-        "Spectrum"
-      ]
-    },
-    "terra19kzel57gvx42e628k6frh624x5vm2kpck9cr9c": {
-      "id": "SPECTRUM_SPEC_NLUNAPSI_FARM",
-      "name": "Spec nLuna-Psi Farm",
-      "protocol": "Spectrum",
-      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
-      "tags": [
-        "Spectrum"
-      ]
-    },
-    "terra1lmm7xjareer3fd040kz2epw93hg20p9f64uh98": {
-      "id": "SPECTRUM_SPEC_NETHPSI_FARM",
-      "name": "Spec nEth-Psi Farm",
-      "protocol": "Spectrum",
-      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
-      "tags": [
-        "Spectrum"
-      ]
-    },
-    "terra15x4hysms59x5eek6esg3f2jycalpypdcl6sy7j": {
-      "id": "SPECTRUM_SPEC_KUJI_FARM",
-      "name": "Spec KUJI Farm",
-      "protocol": "Spectrum",
-      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
-      "tags": [
-        "Spectrum"
       ]
     },
     "terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr": {
@@ -4399,6 +4417,42 @@
         "Spectrum"
       ]
     },
+    "terra1mset93yy46n8lwy59gadcmekxspnf3zldzsc0x": {
+      "protocol": "Spectrum",
+      "name": "Spec ORION Farm",
+      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
+      "id": "SPECTRUM_SPEC_ORION_FARM",
+      "tags": [
+        "Spectrum"
+      ]
+    },
+    "terra1jssrzhcr2qdm53qucw6ty35wddyhea8nvwwq4a": {
+      "protocol": "Spectrum",
+      "name": "Spec nLuna-Psi Farm",
+      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
+      "id": "SPECTRUM_SPEC_NLUNAPSI_FARM",
+      "tags": [
+        "Spectrum"
+      ]
+    },
+    "terra1nvgz56np9kytg4xx8xmd85yqfjh50p39wua2yg": {
+      "protocol": "Spectrum",
+      "name": "Spec nEth-Psi Farm",
+      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
+      "id": "SPECTRUM_SPEC_NETHPSI_FARM",
+      "tags": [
+        "Spectrum"
+      ]
+    },
+    "terra16ppenx9paca846mj39axlqhtxgz8n9az5pantj": {
+      "protocol": "Spectrum",
+      "name": "Spec KUJI Farm",
+      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
+      "id": "SPECTRUM_SPEC_KUJI_FARM",
+      "tags": [
+        "Spectrum"
+      ]
+    },
     "terra1cxz4m6rvq9vkw8x9f3gqtuex6t5ulm6sr3j4qz": {
       "protocol": "StarTerra",
       "name": "STT Staking Faction Lunatics",
@@ -4493,13 +4547,13 @@
     "terra183cvzy6knvva6mpvzcq86uyfxw0nd4925m0d0m": {
       "protocol": "White Whale",
       "name": "WHALE",
-      "icon": "https://avatars.githubusercontent.com/u/86790335?s=100&v=4.png",
+      "icon": "https://www.whitewhale.money/tokenlogo.png",
       "id": "WHITE_WHALE_WHALE"
     },
     "terra1zuspxvj76ngktnjuawmckpsmynwuvusdnq0pxd": {
       "protocol": "White Whale",
       "name": "WHALE-UST LP Token",
-      "icon": "https://avatars.githubusercontent.com/u/86790335?s=100&v=4.png",
+      "icon": "https://www.whitewhale.money/tokenlogo.png",
       "id": "WHITE_WHALE_WHALE-UST_LP_TOKEN"
     },
     "terra1u7tnl4326ge86mzqeqnzxxjg7xkgj8nfg65a2h": {
@@ -4701,42 +4755,6 @@
       "icon": "https://whitelist.mirror.finance/icon/MIR.png",
       "tags": [
         "Mirror"
-      ]
-    },
-    "terra1mset93yy46n8lwy59gadcmekxspnf3zldzsc0x": {
-      "id": "SPECTRUM_SPEC_ORION_FARM",
-      "name": "Spec ORION Farm",
-      "protocol": "Spectrum",
-      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
-      "tags": [
-        "Spectrum"
-      ]
-    },
-    "terra1jssrzhcr2qdm53qucw6ty35wddyhea8nvwwq4a": {
-      "id": "SPECTRUM_SPEC_NLUNAPSI_FARM",
-      "name": "Spec nLuna-Psi Farm",
-      "protocol": "Spectrum",
-      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
-      "tags": [
-        "Spectrum"
-      ]
-    },
-    "terra1nvgz56np9kytg4xx8xmd85yqfjh50p39wua2yg": {
-      "id": "SPECTRUM_SPEC_NETHPSI_FARM",
-      "name": "Spec nEth-Psi Farm",
-      "protocol": "Spectrum",
-      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
-      "tags": [
-        "Spectrum"
-      ]
-    },
-    "terra16ppenx9paca846mj39axlqhtxgz8n9az5pantj": {
-      "id": "SPECTRUM_SPEC_KUJI_FARM",
-      "name": "Spec KUJI Farm",
-      "protocol": "Spectrum",
-      "icon": "https://finder.extraterrestrial.money/images/SPEC100.png",
-      "tags": [
-        "Spectrum"
       ]
     },
     "terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4": {
