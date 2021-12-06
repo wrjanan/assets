@@ -933,6 +933,18 @@
         "whitelist"
       ]
     },
+    "terra167gwjhv4mrs0fqj0q5tejyl6cz6qc2cl95z530": {
+      "protocol": "Pylon",
+      "name": "Psi-bPsiDP-24m Pair",
+      "icon": "https://assets.pylon.rocks/logo/bPsiDP.png",
+      "id": "PYLON_PSI-BPSIDP-24M_PAIR"
+    },
+    "terra1t4uuc09t4ld560vg2k9w2f5m9e5trftnym50zj": {
+      "protocol": "Pylon",
+      "name": "Psi-bPsiDP-24m LP",
+      "icon": "https://assets.pylon.rocks/logo/bPsiDP.png",
+      "id": "PYLON_PSI-BPSIDP-24M_LP"
+    },
     "terra1rqkyau9hanxtn63mjrdfhpnkpddztv3qav0tq2": {
       "protocol": "Terraswap",
       "name": "MINE-UST LP",
@@ -1300,6 +1312,12 @@
       "name": "STT Governance",
       "icon": "https://starterra.io/assets/100x100_starterra.png",
       "id": "STARTERRA_STT_GOVERNANCE"
+    },
+    "terra1s8afpa8pmsye2j9rmx8mhwmtfhtuvvematnyva": {
+      "protocol": "StarTerra",
+      "name": "STT Play 2 Earn",
+      "icon": "https://starterra.io/assets/100x100_starterra.png",
+      "id": "STARTERRA_STT_PLAY_2_EARN"
     },
     "terra1etdkg9p0fkl8zal6ecp98kypd32q8k3ryced9d": {
       "protocol": "Terraswap",
@@ -1694,6 +1712,12 @@
       "name": "Kujira Team Multisignature Warchest",
       "icon": "https://assets.kujira.app/kuji.png",
       "id": "KUJIRA_KUJIRA_TEAM_MULTISIGNATURE_WARCHEST"
+    },
+    "terra1mz0p4wzz5tmethu7rca2jjrw077hv2ypj7h06z": {
+      "protocol": "Orne",
+      "name": "UST-ORNE Pair",
+      "icon": "https://orne.io/img/token_icon.png",
+      "id": "ORNE_UST-ORNE_PAIR"
     },
     "terra1vs9jr7pxuqwct3j29lez3pfetuu8xmq7tk3lzk": {
       "id": "TERRASWAP_ASSET_LIMIT_ORDER",
