@@ -1,5 +1,16 @@
 {
   "mainnet": {
+    "terra1tv5hu9d2hw4q9tn4x30870ae0e4mrttqj0fcv6": {
+      "contract": "terra1tv5hu9d2hw4q9tn4x30870ae0e4mrttqj0fcv6",
+      "name": "Deviants Factions",
+      "symbol": "DF",
+      "icon": "https://deviantsfactions.com/deviantsAvatar.png",
+      "homepage": "https://deviantsfactions.com",
+      "marketplace": [
+        "https://randomearth.io/collections/terra1tv5hu9d2hw4q9tn4x30870ae0e4mrttqj0fcv6",
+        "https://knowhere.art/collection/terra1tv5hu9d2hw4q9tn4x30870ae0e4mrttqj0fcv6"
+      ]
+    },
     "terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k": {
       "contract": "terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k",
       "name": "Galactic Punks",
@@ -11,9 +22,17 @@
         "https://knowhere.art/collection/terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k"
       ]
     },
+    "terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv": {
+      "contract": "terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv",
+      "name": "LunaPunks",
+      "symbol": "LunaPunks",
+      "icon": "https://lunapunks.io/hero.jpg",
+      "marketplace": ["https://lunapunks.io/market"]
+    },
     "terra1lt4e5r5rhddhercgpk6v567z2yd3ucxq5n8jsh": {
-      "name": "R.E.S.Toads",
       "contract": "terra1lt4e5r5rhddhercgpk6v567z2yd3ucxq5n8jsh",
+      "name": "R.E.S.Toads",
+      "symbol": "RESToads",
       "icon": "https://www.redeyedspacetoads.io/rest_icon.svg",
       "homepage": "https://redeyedspacetoads.io/",
       "marketplace": [
@@ -138,14 +157,20 @@
       "symbol": "Peeps",
       "icon": "https://storage.googleapis.com/public-knowhere/collections/terrapeeps.png",
       "homepage": "https://terrapeeps.com/",
-      "marketplace": [      
-        "https://knowhere.art/collection/terra1t0l0sz0efnr7cm3hxked7nn2x7xx5syw02k8tc"
-      ]
+      "marketplace": ["https://knowhere.art/collection/terra1t0l0sz0efnr7cm3hxked7nn2x7xx5syw02k8tc"]
+    },
+    "terra1h6msx3t0qj7fuhssyqc44g20qwwyz35zqel96l": {
+      "contract": "terra1h6msx3t0qj7fuhssyqc44g20qwwyz35zqel96l",
+      "name": "Poppin Puffins",
+      "symbol": "PUFF",
+      "homepage": "https://poppinpuffins.art/",
+      "marketplace": ["https://randomearth.io/collections/terra1h6msx3t0qj7fuhssyqc44g20qwwyz35zqel96l"]
     }
   },
   "testnet": {
     "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm": {
       "name": "R.E.S.Toads",
+      "symbol": "RESToads",
       "contract": "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm",
       "icon": "https://www.redeyedspacetoads.io/rest_icon.svg"
     }
