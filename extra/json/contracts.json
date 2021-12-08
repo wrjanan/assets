@@ -3416,6 +3416,36 @@
       "tags": [
         "Levana"
       ]
+    },
+    "terra13awdgcx40tz5uygkgm79dytez3x87rpg4uhnvu": {
+      "id": "PLAYNITY_PLY_TOKEN",
+      "name": "PlayNity PLY Token",
+      "protocol": "PlayNity",
+      "icon": "https://finder.extraterrestrial.money/images/PLAYNITY60.png",
+      "tags": [
+        "PlayNity"
+      ]
+    },
+    "terra19fjaurx28dq4wgnf9fv3qg0lwldcln3jqafzm6": {
+      "id": "TERRASWAP_PLY-UST_PAIR",
+      "name": "PLY-UST Pair",
+      "protocol": "Terraswap",
+      "icon": "https://finder.extraterrestrial.money/images/PLAYNITY60.png",
+      "tags": [
+        "Terraswap",
+        "PlayNity",
+        "whitelist"
+      ]
+    },
+    "terra1h69kvcmg8jnq7ph2r45k6md4afkl96ugg73amc": {
+      "id": "TERRASWAP_PLY-UST_LP",
+      "name": "PLY-UST LP",
+      "protocol": "Terraswap",
+      "icon": "https://finder.extraterrestrial.money/images/PLAYNITY60.png",
+      "tags": [
+        "Terraswap",
+        "PlayNity"
+      ]
     }
   },
   "testnet": {
