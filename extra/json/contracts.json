@@ -2092,6 +2092,17 @@
         "whitelist"
       ]
     },
+    "terra1n3gt4k3vth0uppk0urche6m3geu9eqcyujt88q": {
+      "id": "TERRASWAP_APOLLO-UST_LP",
+      "name": "APOLLO-UST LP",
+      "protocol": "Terraswap",
+      "icon": "https://finder.extraterrestrial.money/images/APOLLO60.png",
+      "tags": [
+        "Apollo",
+        "Terraswap",
+        "whitelist"
+      ]
+    },
     "terra1sn807fkaddr6y6asl855rlrywygywlhs88r8ps": {
       "id": "APOLLO_AIRDROP",
       "name": "Apollo Airdrop",
