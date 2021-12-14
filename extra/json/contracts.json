@@ -1416,9 +1416,12 @@
     },
     "terra1php5m8a6qd68z02t3zpw4jv2pj4vgw4wz0t8mz": {
       "protocol": "White Whale",
-      "name": "WHALE",
-      "icon": "https://www.whitewhale.money/tokenlogo.png",
-      "id": "WHITE_WHALE_WHALE"
+      "name": "Whale Token",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/WHALE60.png",
+      "id": "WHITEWHALE_WHALE_TOKEN",
+      "tags": [
+        "whitewhale"
+      ]
     },
     "terra1xrk6v2tfjrhjz2dsfecj40ps7ayanjx970gy0j": {
       "protocol": "Nexus",
@@ -3457,6 +3460,33 @@
       "tags": [
         "Terraswap",
         "PlayNity"
+      ]
+    },
+    "terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3": {
+      "id": "ASTROPORT_ASTRO_TOKEN",
+      "name": "Astro Token",
+      "protocol": "Astroport",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/ASTRO60.png",
+      "tags": [
+        "Astroport"
+      ]
+    },
+    "terra1627ldjvxatt54ydd3ns6xaxtd68a2vtyu7kakj": {
+      "id": "ASTROPORT_LOCKDROP",
+      "name": "Lockdrop",
+      "protocol": "Astroport",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/ASTRO60.png",
+      "tags": [
+        "Astroport"
+      ]
+    },
+    "terra1sz988qp6vma3j0xj5w7fsskqcuc8kjn0mmtcqc": {
+      "id": "WHITEWHALE_BOOTSWAP",
+      "name": "Bootswap",
+      "protocol": "White Whale",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/WHALE60.png",
+      "tags": [
+        "whitewhale"
       ]
     }
   },
