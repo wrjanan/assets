@@ -3295,6 +3295,16 @@
         "whitelist"
       ]
     },
+    "terra14ffp0waxcck733a9jfd58d86h9rac2chf5xhev": {
+      "id": "TERRASWAP_ORION-UST_LP",
+      "name": "ORION-UST LP",
+      "protocol": "Terraswap",
+      "icon": "https://orion.money/assets/ORION-LOGO-2.1-GREEN@256x256.png",
+      "tags": [
+        "Orion",
+        "Terraswap"
+      ]
+    },
     "terra1mddcdx0ujx89f38gu7zspk2r2ffdl5enyz2u03": {
       "id": "ORION_ORION_TOKEN",
       "name": "Orion Token",
