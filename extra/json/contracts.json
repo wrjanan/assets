@@ -3509,6 +3509,17 @@
       "tags": [
         "whitewhale"
       ]
+    },
+    "terra1v4kpj65uq63m4x0mqzntzm27ecpactt42nyp5c": {
+      "id": "TERRASWAP_WHALE-UST_LP",
+      "name": "WHALE-UST Pair",
+      "protocol": "Terraswap",
+      "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/WHALE60.png",
+      "tags": [
+        "Terraswap",
+        "whitewhale",
+        "whitelist"
+      ]
     }
   },
   "testnet": {
