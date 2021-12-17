@@ -2960,8 +2960,8 @@
       ]
     },
     "terra1eek0ymmhyzja60830xhzm7k7jkrk99a60q2z2t": {
-      "id": "RANDOMEARTH_SALE",
-      "name": "RandomEarth Sale",
+      "id": "RANDOMEARTH_SETTLEMENT",
+      "name": "RandomEarth Settlement",
       "protocol": "RandomEarth",
       "icon": "https://raw.githubusercontent.com/etfinder/assets/master/extra/icon/60/RANDOMEARTH.png",
       "tags": [
