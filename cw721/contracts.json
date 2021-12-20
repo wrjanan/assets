@@ -265,6 +265,14 @@
       "icon": "https://www.heronft.io/static/media/astro_girl.b24e126c.png",
       "marketplace": ["https://randomearth.io/collections/terra1lfr4aja5a2xpxvnrl4gyjpru0wwglu7k87jmeq"]
     }
+    "terra1krweszvml2w6h9zk8s4wgu9c5tfdl0j8fu9apg": {	
+      "contract": "terra1krweszvml2w6h9zk8s4wgu9c5tfdl0j8fu9apg",
+      "name": "LunaPunks",
+      "symbol": "LunaPunks",
+      "homepage": "https://lunapunks.io/",
+      "icon": "https://lunapunks.io/hero.jpg",
+      "marketplace": ["https://lunapunks.io/market",]
+    }
   },
   "testnet": {
     "terra1225xrxqrdnxt8shtzrqnvzkc0rqxgt4577cyqm": {
