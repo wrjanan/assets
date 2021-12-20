@@ -43,7 +43,9 @@
     "terra1s5wkurdh4sw47lgnk5em4h69v5vh9dncmkhyrg": "Nexus Instantiator",
     "terra1dfcptsy9x4wzhpv0m79v47ladgj02yyuf0asyu": "Terraworld Instantiator",
     "terra1numzqm5mgr56ftd4y8mfen7705nfs4vpz5jf0s": "Angel Protocol Instantiator",
-    "terra1rcznds2le2eflj3y4e8ep3e4upvq04sc65wdly": "Angel Protocol Treasury"
+    "terra1rcznds2le2eflj3y4e8ep3e4upvq04sc65wdly": "Angel Protocol Treasury",
+    "terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv": "Luna Punks Minter",
+    "terra1538xyqwcxt4ww3396ls9qd7arpt4urdmle32xw": "Luna Punks Marketplace",
   },
   "testnet": {}
 }
